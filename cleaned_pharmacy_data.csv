@@ -1,0 +1,1408 @@
+Date,Drugs,Amount,Payment Method,Sales Person
+2023-12-27,"Aspirin, Ibuprofen",1000,Card,Nehemiah
+2023-12-27,Vitamin C,950,Card,Alice
+2023-12-27,"Ibuprofen, Doxycycline",1200,Cash,Esther
+2023-12-27,"Doxycycline, Vitamin C",2650,Card,Esther
+2023-12-29,"Aspirin, Calcium Tablets",1850,Card,Nurse Lami
+2023-12-29,Diclofenac,1050,Card,Vicki
+2023-12-29,Doxycycline,800,Cash,Vicki
+2023-12-30,Typbar TCV,2600,Card,Nurse Lami
+2023-12-30,Calcium Tablets,2200,Cash,Vicki
+2023-12-30,"Cold syrup, Vitamin C",2150,Card,Nathniel
+2023-12-30,"Omega 3, Ibuprofen",4500,Card,Alice
+2023-12-31,"Iron Supplements, aspirin",3850,Card,Alice
+2023-12-31,Vitamin C,1950,Cash,Nathniel
+2024-01-01,"Omega 3, Vitamin C",1350,Card,Nurse Lami
+2024-01-02,Omega 3,2650,Cash,Esther
+2024-01-02,"Calcium Tablets, Azithrimycin",3500,Cash,Nathniel
+2024-01-02,"Doxycycline, Paracetamol",1500,Cash,Nurse Lami
+2024-01-02,"Calcium Tablets, aspirin",2700,Card,Vicki
+2024-01-02,"Omega 3, ibuprofen",1150,Cash,Vicki
+2024-01-02,"Amoxicillin, Paracetamol",3350,Cash,Nehemiah
+2024-01-02,"Omega 3, Cold syrup",2250,Cash,Nehemiah
+2024-01-02,Ciprofloxacin,1800,Card,Nehemiah
+2024-01-02,"diclofenac, Doxycycline",1850,Card,Nurse Lami
+2024-01-02,Azithrimycin,2000,Cash,Vicki
+2024-01-03,Paracetamol,1300,Card,Alice
+2024-01-03,"Paracetamol, Vitamin C",1300,Card,Nathniel
+2024-01-03,"aspirin, Iron Supplements",3900,Card,Vicki
+2024-01-03,Ciprofloxacin,300,Card,Nurse Lami
+2024-01-04,Iron Supplements,1800,Card,Nehemiah
+2024-01-04,Doxycycline,1400,Cash,Nathniel
+2024-01-04,Diclofenac,450,Cash,Vicki
+2024-01-04,"Vitamin C, Calcium Tablets",1550,Cash,Alice
+2024-01-04,Omega 3,2250,Card,Alice
+2024-01-04,"diclofenac, Aspirin, Cough Syrup, Pro cold",4000,Card,Vicki
+2024-01-05,Omega 3,1350,Card,Nathniel
+2024-01-05,"diclofenac, aspirin",2800,Card,Vicki
+2024-01-05,"diclofenac, ibuprofen",3850,Card,Esther
+2024-01-05,"Aspirin, Ibuprofen",1400,Card,Nurse Lami
+2024-01-05,Calcium Tablets,4150,Card,Alice
+2024-01-05,"Aspirin, Paracetamol",1500,Cash,Nathniel
+2024-01-05,Omega 3,1800,Card,Esther
+2024-01-06,"Azithrimycin, Azithrimycin",3750,Card,Vicki
+2024-01-07,"Ciprofloxacin, Azithrimycin",2800,Cash,Vicki
+2024-01-07,"ibuprofen, Cuugh syrup",3150,Card,Nurse Lami
+2024-01-07,Azithrimycin,2850,Cash,Nurse Lami
+2024-01-07, Escitalopram oxalate,3250,Cash,Vicki
+2024-01-08,"diclofenac, Azithrimycin",3750,Card,Esther
+2024-01-08,"Ciprofloxacin, Azithrimycin",2200,Cash,Esther
+2024-01-08,"Paracetamol, Azithrimycin",1150,Card,Esther
+2024-01-08,"Paracetamol, Paracetamol",2650,Card,Vicki
+2024-01-08,"ibuprofen, Cuugh syrup, Vitamin C",350,Cash,Nurse Lami
+2024-01-08,"Diclofenac, Doxycycline",2350,Card,Nurse Lami
+2024-01-08,Ciprofloxacin,1200,Card,Nathniel
+2024-01-08,Vitamin C,2400,Card,Esther
+2024-01-08,"Aspirin, Vitamin C,Cough Syrup",4300,Cash,Vicki
+2024-01-09,"Vitamin C, Tutolin",1750,Cash,Alice
+2024-01-09,"Paracetamol, Omega 3",2800,Cash,Nehemiah
+2024-01-09,"Omega 3, Iron Supplements",3500,Cash,Nurse Lami
+2024-01-09,aspirin,2750,Card,Alice
+2024-01-10,"Calcium Tablets, ibuprofen",3350,Card,Esther
+2024-01-10,Ibuprofen,1600,Card,Esther
+2024-01-10,"Amoxicillin, Ciprofloxacin",4050,Card,Alice
+2024-01-11,Doxycycline,950,Card,Nurse Lami
+2024-01-11,"Azithrimycin, Iron Supplements",3050,Cash,Nathniel
+2024-01-11,"Doxycycline, Diclofenac",2050,Cash,Alice
+2024-01-11,"Ciprofloxacin, Calcium Tablets",2000,Card,Esther
+2024-01-11,"Doxycycline, Iron Supplements",2050,Card,Vicki
+2024-01-12,Iron Supplements,2650,Cash,Nathniel
+2024-01-12,Iron Supplements,1200,Cash,Nehemiah
+2024-01-12,"Omega 3, Azithrimycin",2850,Card,Vicki
+2024-01-12,"Omega 3, Amoxicillin",2800,Card,Vicki
+2024-01-12,ibuprofen,2600,Cash,Nurse Lami
+2024-01-12,"Amoxicillin, Calcium Tablets",1300,Cash,Alice
+2024-01-13,Iron Supplements,1650,Card,Alice
+2024-01-13,"Diclofenac, Vitamin C, Ampiclox",2850,Card,Alice
+2024-01-13,"Paracetamol, Omega 3",1300,Card,Esther
+2024-01-13,"Calcium Tablets, ibuprofen",1250,Cash,Esther
+2024-01-14,"Vitamin C, Cold syrup, Penicilin",3750,Card,Nurse Lami
+2024-01-14,"aspirin, Vitamin C",1050,Card,Nehemiah
+2024-01-14,Vitamin C,500,Cash,Esther
+2024-01-15,Calcium Tablets,3000,Card,Esther
+2024-01-15,Iron Supplements,2000,Cash,Esther
+2024-01-15,"Paracetamol, Cephalexin",2100,Cash,Nathniel
+2024-01-15,Azithrimycin,1150,Card,Vicki
+2024-01-15,Vitamin C,1400,Cash,Nehemiah
+2024-01-16,"Azithrimycin, Aspirin",2400,Card,Nathniel
+2024-01-16,Ibuprofen,350,Card,Nathniel
+2024-01-17,Vitamin C,2900,Card,Esther
+2024-01-17,"Cough Syrup, Paracetamol",3250,Card,Vicki
+2024-01-17,Diclofenac,1350,Card,Nathniel
+2024-01-17,"Iron Supplements, Iron Supplements",2450,Card,Vicki
+2024-01-17,Iron Supplements,2700,Cash,Alice
+2024-01-18,Ciprofloxacin,950,Cash,Alice
+2024-01-18,"Omega 3, Cold syrup",1600,Cash,Vicki
+2024-01-18,Doxycycline,2700,Card,Nurse Lami
+2024-01-18,Iron Supplements,4050,Card,Nurse Lami
+2024-01-18,Paracetamol,850,Cash,Nehemiah
+2024-01-19,"diclofenac, Doxycycline",3900,Cash,Nurse Lami
+2024-01-20,Omega 3,3150,Card,Nehemiah
+2024-01-20,"Azithrimycin, Cold syrup",4300,Cash,Nehemiah
+2024-01-20,"Azithrimycin, Vitamin C",1000,Cash,Esther
+2024-01-20,Cephalexin,3350,Cash,Vicki
+2024-01-20,Ibuprofen,400,Cash,Nathniel
+2024-01-20,"Paracetamol, Vitamin C",950,Cash,Nathniel
+2024-01-20,Omega 3,1700,Card,Esther
+2024-01-20,Doxycycline,400,Card,Vicki
+2024-01-21,"Omega 3, Iron Supplements",3400,Card,Nathniel
+2024-01-21,"Doxycycline, Aspirin",3000,Card,Nehemiah
+2024-01-21,"Omega 3, Ibuprofen",3150,Card,Esther
+2024-01-22,"Diclofenac, Iron Supplements",2700,Card,Nathniel
+2024-01-23,Iron Supplements,2450,Cash,Alice
+2024-01-23,Ibuprofen,1200,Card,Nurse Lami
+2024-01-23,Ciprofloxacin,300,Card,Nathniel
+2024-01-23,"Paracetamol, Aspirin",1950,Cash,Alice
+2024-01-23,"Iron Supplements, Vitamin C",2000,Cash,Vicki
+2024-01-23,Iron Supplements,950,Cash,Nehemiah
+2024-01-24,"Ciprofloxacin, Paracetamol",2800,Cash,Nehemiah
+2024-01-24,Doxycycline,950,Card,Nurse Lami
+2024-01-24,"Iron Supplements, Amoxicillin",1400,Cash,Nurse Lami
+2024-01-24,Omega 3,2700,Cash,Nehemiah
+2024-01-24,"Aspirin, Vitamin C",2100,Cash,Nathniel
+2024-01-24,Iron Supplements,1900,Card,Nehemiah
+2024-01-25,"aspirin, diclofenac",3350,Cash,Vicki
+2024-01-25,"diclofenac, Calcium Tablets",4450,Card,Nurse Lami
+2024-01-25,Vitamin C,4300,Card,Alice
+2024-01-26,"Vitamin C, Aspirin",2250,Card,Nathniel
+2024-01-26,"ibuprofen, Calcium Tablets",2200,Cash,Esther
+2024-01-26,"Vitamin C, Paracetamol",2450,Card,Vicki
+2024-01-26,Azithrimycin,1300,Card,Vicki
+2024-01-26,"Azithrimycin, Vitamin C",3500,Cash,Nehemiah
+2024-01-26,Paracetamol,1750,Card,Vicki
+2024-01-27,"Panadol, Cold syrup, Choloroquin Injection",1000,Cash,Nurse Lami
+2024-01-27,Azithrimycin,3700,Card,Vicki
+2024-01-27,Azithrimycin,1300,Card,Nathniel
+2024-01-28,"Calcium Tablets,  Escitalopram oxalate,  Pro Cold",4000,Cash,Esther
+2024-01-28,"Iron Supplements, Diclofenac",1800,Cash,Alice
+2024-01-29,", diclofenac",2200,Cash,Alice
+2024-01-29,"Paracetamol, aspirin",2500,Cash,Nurse Lami
+2024-01-29,diclofenac,3650,Card,Esther
+2024-01-29,Calcium Tablets,3800,Cash,Nathniel
+2024-01-29,Doxycycline,750,Card,Nurse Lami
+2024-01-30,ibuprofen,3900,Cash,Alice
+2024-01-31,"ibuprofen, Vitamin C",3850,Card,Alice
+2024-01-31,"Paracetamol, Cold syrup, Vitamin C",3150,Cash,Vicki
+2024-01-31,", ibuprofen",1300,Card,Nehemiah
+2024-01-31,Amoxicillin,4200,Card,Esther
+2024-01-31,"Azithrimycin, Ciprofloxacin",1000,Card,Nehemiah
+2024-01-31,"Ciprofloxacin, Iron Supplements",3450,Card,Nehemiah
+2024-02-01,"aspirin, Vitamin C",4100,Card,Vicki
+2024-02-01,"aspirin, Vitamin C",2450,Card,Esther
+2024-02-01,Choloroquin Injection,1400,Card,Nurse Lami
+2024-02-01,"ibuprofen, Doxycycline",1450,Cash,Nurse Lami
+2024-02-01,Doxycycline,1600,Cash,Nathniel
+2024-02-02,"Azithrimycin, ibuprofen",1650,Cash,Alice
+2024-02-02,"Amoxicillin, Vitamin C",1800,Cash,Nehemiah
+2024-02-02,Amoxicillin,250,Card,Vicki
+2024-02-02,Calcium Tablets,1200,Card,Alice
+2024-02-02,"Azithrimycin, Doxycycline",3450,Card,Alice
+2024-02-03,"Doxycycline, Iron Supplements",3250,Card,Nathniel
+2024-02-03,"Azithrimycin, diclofenac",1250,Card,Nehemiah
+2024-02-03,"diclofenac, Amoxicillin",4200,Cash,Nehemiah
+2024-02-03,"Doxycycline, Amoxicillin",3800,Card,Vicki
+2024-02-04,"Azithrimycin, Calcium Tablets",3350,Cash,Alice
+2024-02-04,Artesunate injection,1550,Cash,Vicki
+2024-02-04,Cephalexin,1000,Card,Nurse Lami
+2024-02-05,"Omega 3, Amoxicillin",2050,Card,Alice
+2024-02-05,Funbact A,1650,Card,Nathniel
+2024-02-05,"ibuprofen, Vitamin C",2400,Card,Nathniel
+2024-02-05,Iron Supplements,4250,Cash,Nehemiah
+2024-02-05,"Aspirin, vitamin C",950,Cash,Esther
+2024-02-06,"Calcium Tablets, Omega 3",3750,Cash,Nurse Lami
+2024-02-06,Calcium Tablets,3750,Card,Nurse Lami
+2024-02-06,"Omega 3, Cephalexin",3900,Cash,Vicki
+2024-02-06,Paracetamol,2100,Card,Nehemiah
+2024-02-06,"Aspirin, Ciprofloxacin",4300,Cash,Nurse Lami
+2024-02-06,Doxycycline,800,Cash,Nurse Lami
+2024-02-06,Iron Supplements,1800,Card,Vicki
+2024-02-07,ibuprofen,150,Cash,Vicki
+2024-02-07,"Amoxicillin, Calcium Tablets",2250,Cash,Nehemiah
+2024-02-08,"Iron Supplements, Iron Supplements",3150,Cash,Nehemiah
+2024-02-08,"Diclofenac, Ciprofloxacin",2750,Card,Nehemiah
+2024-02-08,"Vitamin C, diclofenac",2550,Cash,Nathniel
+2024-02-09,"Ciprofloxacin, Azithrimycin",4500,Card,Nathniel
+2024-02-09,Calcium Tablets,1300,Cash,Nurse Lami
+2024-02-09,Vitamin C,1600,Card,Vicki
+2024-02-09,Vitamin C,450,Card,Alice
+2024-02-09,"diclofenac, Iron Supplements",4300,Cash,Vicki
+2024-02-09,"Aspirin, Amoxicillin",1900,Card,Esther
+2024-02-09,Omega 3,3400,Card,Esther
+2024-02-09,Iron Supplements,1850,Card,Esther
+2024-02-10,Diclofenac,1950,Cash,Nehemiah
+2024-02-11,"Iron Supplements, Omega 3",4000,Cash,Esther
+2024-02-11,Ciprofloxacin,450,Card,Vicki
+2024-02-11,"Doxycycline, Aspirin",1200,Card,Nathniel
+2024-02-12,"aspirin, Iron Supplements",2050,Card,Nurse Lami
+2024-02-12,"Diclofenac, Cold syrup, Vitamin C",3100,Cash,Nehemiah
+2024-02-12,diclofenac,1200,Cash,Nathniel
+2024-02-13,"Ampiclox, Cephalexin",1850,Cash,Esther
+2024-02-13, Escitalopram oxalate,3200,Card,Nehemiah
+2024-02-13,Ciprofloxacin,950,Cash,Nathniel
+2024-02-13,Ampiclox,650,Card,Nurse Lami
+2024-02-14,"Ampiclox, Cold syrup",1400,Card,Alice
+2024-02-14,Paracetamol,2950,Cash,Esther
+2024-02-15,Azithrimycin,1550,Cash,Vicki
+2024-02-15,Amoxicillin,500,Cash,Vicki
+2024-02-16,"Paracetamol, diclofenac",1400,Cash,Alice
+2024-02-16,ibuprofen,2250,Cash,Vicki
+2024-02-17,"Amoxicillin, Doxycycline",1150,Card,Nathniel
+2024-02-17," Calcium Tablets,  Pro Cold, Ampiclox",3350,Cash,Alice
+2024-02-17,Doxycycline,2600,Card,Esther
+2024-02-17,"Vitamin C, Calcium Tablets",1650,Cash,Nurse Lami
+2024-02-18,Vitamin C,1600,Card,Alice
+2024-02-18,Calcium Tablets,1900,Card,Alice
+2024-02-18,"Calcium Tablets, Doxycycline",2150,Cash,Nathniel
+2024-02-18,"Calcium Tablets, Azithrimycin",2700,Cash,Alice
+2024-02-19,Amoxicillin,3500,Card,Esther
+2024-02-19,Vitamin C,1400,Card,Alice
+2024-02-20,Paracetamol,3750,Cash,Esther
+2024-02-20,Vitamin C,1000,Cash,Vicki
+2024-02-20,Vitamin C,3600,Cash,Esther
+2024-02-20,diclofenac,1750,Card,Vicki
+2024-02-20,"Ibuprofen,  Pro Cold, Cough Syrup",3050,Cash,Vicki
+2024-02-20,"Paracetamol, diclofenac",3600,Card,Nehemiah
+2024-02-21,"Diclofenac, Cold syrup",1000,Card,Vicki
+2024-02-21,aspirin,4500,Card,Nathniel
+2024-02-21,Paracetamol,700,Cash,Alice
+2024-02-21,"Doxycycline, Calcium Tablets",1600,Cash,Vicki
+2024-02-21,"Doxycycline, diclofenac",2850,Card,Nehemiah
+2024-02-21,Ibuprofen,700,Card,Esther
+2024-02-22,ibuprofen,4150,Cash,Nathniel
+2024-02-22,Paracetamol,1950,Cash,Nathniel
+2024-02-22,"Calcium Tablets, aspirin",2350,Card,Nathniel
+2024-02-22,"diclofenac, Azithrimycin",3400,Card,Esther
+2024-02-22,Cephalexin,3900,Card,Nathniel
+2024-02-22,"ibuprofen, Doxycycline",2350,Card,Nathniel
+2024-02-23,", aspirin",2850,Card,Esther
+2024-02-23,Aspirin,650,Cash,Nathniel
+2024-02-23,"Calcium Tablets, Paracetamol",1600,Card,Nurse Lami
+2024-02-24,"Omega 3, Amoxicillin",2300,Cash,Nathniel
+2024-02-24,Vitamin C,200,Card,Nurse Lami
+2024-02-24,Ciprofloxacin,1250,Card,Nurse Lami
+2024-02-24, Escitalopram oxalate,3850,Cash,Esther
+2024-02-24,Calcium Tablets,2750,Card,Nehemiah
+2024-02-25,Amoxicillin,3450,Cash,Nathniel
+2024-02-25,"Ciprofloxacin, Amoxicillin",3000,Cash,Nurse Lami
+2024-02-25,"Iron Supplements, Vitamin C",4250,Cash,Nehemiah
+2024-02-25,"Vitamin C, Cold syrup, Ampiclox",4150,Cash,Vicki
+2024-02-25,ibuprofen,2100,Card,Esther
+2024-02-25,Amoxicillin,3600,Card,Vicki
+2024-02-25,Paracetamol,3200,Card,Esther
+2024-02-26,"Paracetamol, Iron Supplements",2950,Card,Alice
+2024-02-26,"Calcium Tablets, ibuprofen",2250,Card,Esther
+2024-02-27,"Diclofenac, Cephalexin",4250,Card,Nurse Lami
+2024-02-27,"Iron Supplements, Paracetamol",1450,Card,Nurse Lami
+2024-02-27,Amoxicillin,500,Card,Alice
+2024-02-27,Amoxicillin,250,Card,Nathniel
+2024-02-28,Amoxicillin,300,Cash,Esther
+2024-02-28,"Azithrimycin, ibuprofen",2650,Card,Vicki
+2024-02-28,Paracetamol,2100,Card,Nathniel
+2024-02-28,Ciprofloxacin,1800,Card,Alice
+2024-02-29,Paracetamol,400,Card,Vicki
+2024-02-29,"Azithrimycin, Ciprofloxacin",2800,Cash,Alice
+2024-02-29,"Amoxicillin, diclofenac",1250,Cash,Esther
+2024-02-29,Iron Supplements,1250,Cash,Esther
+2024-02-29,"Iron Supplements, Aspirin",1750,Card,Alice
+2024-02-29,"Iron Supplements, Ciprofloxacin",1000,Card,Nehemiah
+2024-03-01,"Doxycycline, Ciprofloxacin",2350,Cash,Nathniel
+2024-03-01,"Amoxicillin, Omega 3",4500,Card,Vicki
+2024-03-01,"diclofenac, Omega 3",3850,Cash,Nehemiah
+2024-03-01,"Paracetamol, Vitamin C",3050,Card,Alice
+2024-03-03,Iron Supplements,3650,Cash,Nathniel
+2024-03-03,Paracetamol,1300,Cash,Alice
+2024-03-03,Calcium Tablets,1000,Card,Nehemiah
+2024-03-03,Ibuprofen,950,Card,Nathniel
+2024-03-04,"Iron Supplements, diclofenac",1050,Card,Nathniel
+2024-03-04,"Azithrimycin, Paracetamol",1650,Card,Alice
+2024-03-04,Calcium Tablets,2150,Cash,Nehemiah
+2024-03-04,"Ciprofloxacin, aspirin",3300,Card,Alice
+2024-03-04,Doxycycline,700,Cash,Nathniel
+2024-03-05,"diclofenac, Doxycycline",4350,Cash,Esther
+2024-03-05,Omega 3,1700,Cash,Alice
+2024-03-05,"Amoxicillin, Paracetamol",4450,Card,Vicki
+2024-03-06,"Omeprexol, Ampiclox, Vitamin C,  Pro Cold",3100,Cash,Nurse Lami
+2024-03-07,"Ciprofloxacin, Omega 3",3100,Card,Vicki
+2024-03-07,"aspirin, Paracetamol",3500,Card,Nathniel
+2024-03-08,"aspirin, Calcium Tablets",3900,Cash,Vicki
+2024-03-08,"ibuprofen, ibuprofen",3700,Cash,Alice
+2024-03-08,"diclofenac, Azithrimycin",2550,Cash,Esther
+2024-03-08,Paracetamol,750,Cash,Esther
+2024-03-08,"Cephalexin, Pro Cold",3950,Card,Esther
+2024-03-08,Omega 3,2750,Card,Nurse Lami
+2024-03-09,"Calcium Tablets, Calcium Tablets",4150,Cash,Nehemiah
+2024-03-09,Vitamin C,1900,Cash,Nurse Lami
+2024-03-09,"Iron Supplements, Aspirin",3950,Card,Alice
+2024-03-09,"Doxycycline, Ibuprofen",1350,Cash,Vicki
+2024-03-10,Iron Supplements,2400,Card,Esther
+2024-03-10,Azithrimycin,2250,Cash,Nathniel
+2024-03-10,"Calcium Tablets, aspirin",1000,Card,Nehemiah
+2024-03-10,"diclofenac, Paracetamol",3450,Cash,Nathniel
+2024-03-10,Omeprexol,2750,Cash,Nehemiah
+2024-03-11,"Doxycycline, Ciprofloxacin, Omega 3",3600,Card,Alice
+2024-03-11,"Azithrimycin, ibuprofen",3950,Card,Nurse Lami
+2024-03-11,"Azithrimycin, Amoxicillin",4150,Card,Esther
+2024-03-11,"Cephalexin, Paracetamol",4300,Cash,Nurse Lami
+2024-03-11,Doxycycline,850,Cash,Vicki
+2024-03-12,Ciprofloxacin,1050,Card,Esther
+2024-03-12,ibuprofen,3900,Cash,Nurse Lami
+2024-03-12,"diclofenac, diclofenac",2400,Cash,Vicki
+2024-03-12,Ciprofloxacin,1300,Cash,Alice
+2024-03-12,Vitamin C,100,Card,Nurse Lami
+2024-03-12,Paracetamol,300,Card,Vicki
+2024-03-12,"Vitamin C, Azithrimycin",1400,Card,Nathniel
+2024-03-13,Omega 3,2250,Cash,Alice
+2024-03-13,diclofenac,3850,Card,Nurse Lami
+2024-03-13,Calcium Tablets,2150,Card,Nathniel
+2024-03-13,"Paracetamol, diclofenac",3850,Cash,Nehemiah
+2024-03-14,diclofenac,2700,Card,Esther
+2024-03-14,Ciprofloxacin,1000,Cash,Nathniel
+2024-03-15,"Omega 3, ibuprofen",1000,Card,Nurse Lami
+2024-03-15,"Doxycycline, Calcium Tablets",4200,Cash,Nehemiah
+2024-03-16,"Doxycycline, ibuprofen",2700,Card,Nathniel
+2024-03-16,"Ibuprofen, Iron Supplements",2250,Card,Alice
+2024-03-17,"aspirin, Ciprofloxacin",1750,Cash,Alice
+2024-03-17,"aspirin, Ciprofloxacin",1650,Cash,Alice
+2024-03-17,Ibuprofen,1050,Cash,Nehemiah
+2024-03-18,"Vitamin C, Calcium Tablets",3550,Card,Nurse Lami
+2024-03-18,Omega 3,1750,Cash,Esther
+2024-03-18,Doxycycline,1100,Card,Nathniel
+2024-03-18,"Diclofenac, Aspirin",950,Cash,Nurse Lami
+2024-03-19,"Ciprofloxacin, Omega 3",2350,Card,Esther
+2024-03-19,"Iron Supplements, Ciprofloxacin",3050,Card,Nathniel
+2024-03-20,ibuprofen,4450,Card,Nehemiah
+2024-03-20,"Paracetamol, Calcium Tablets",3500,Card,Nathniel
+2024-03-20,Diclofenac,950,Card,Vicki
+2024-03-21,"Vitamin C, Vitamin C",2600,Card,Nathniel
+2024-03-21,Calcium Tablets,1350,Cash,Nurse Lami
+2024-03-21,"Doxycycline, Diclofenac",1350,Card,Alice
+2024-03-21,"Calcium Tablets, Paracetamol",1500,Cash,Nehemiah
+2024-03-22,ibuprofen,2900,Cash,Nehemiah
+2024-03-22,"Azithrimycin, Amoxicillin",2350,Cash,Vicki
+2024-03-22,"diclofenac, ibuprofen",2150,Card,Alice
+2024-03-22,"Doxycycline, Paracetamol",2550,Cash,Nehemiah
+2024-03-22,"Vitamin C, Azithrimycin",2050,Cash,Nehemiah
+2024-03-23,"ibuprofen, Iron Supplements",4250,Card,Nurse Lami
+2024-03-23,"Vitamin C, Omeprexol, Cough Syrup",3750,Card,Vicki
+2024-03-23,Amoxicillin,450,Card,Nathniel
+2024-03-23,Aspirin,800,Cash,Vicki
+2024-03-24,Ciprofloxacin,400,Cash,Nathniel
+2024-03-24,Calcium Tablets,2300,Cash,Alice
+2024-03-25,Calcium Tablets,4350,Cash,Alice
+2024-03-25,Vitamin C,3600,Cash,Nurse Lami
+2024-03-25,aspirin,4300,Cash,Nurse Lami
+2024-03-25,"Iron Supplements, Iron Supplements",3700,Cash,Nurse Lami
+2024-03-26,Omega 3,1300,Cash,Alice
+2024-03-27,"ibuprofen, Doxycycline",3100,Card,Esther
+2024-03-27,Vitamin C,1500,Card,Alice
+2024-03-27,Vitamin C,1450,Card,Esther
+2024-03-27,Amoxicillin,1800,Card,Nurse Lami
+2024-03-28,Omega 3,1050,Cash,Alice
+2024-03-28,Omega 3,1650,Cash,Nathniel
+2024-03-28,Doxycycline,1650,Card,Nehemiah
+2024-03-28,Omega 3,1550,Card,Nehemiah
+2024-03-28,"Ibuprofen, Vitamin C",900,Cash,Nurse Lami
+2024-03-29,"Paracetamol, ibuprofen",2750,Card,Alice
+2024-03-29,"ibuprofen, Paracetamol",1000,Card,Esther
+2024-03-30,"ibuprofen, Doxycycline",4150,Cash,Nurse Lami
+2024-03-30,Iron Supplements,1050,Card,Esther
+2024-03-30,Doxycycline,2800,Card,Nehemiah
+2024-03-30,"Ciprofloxacin, Azithrimycin",3450,Cash,Esther
+2024-03-30,"Diclofenac, Calcium Tablets",3650,Cash,Vicki
+2024-03-30,"Paracetamol, Iron Supplements",1250,Cash,Nehemiah
+2024-03-31,Amoxicillin,2600,Cash,Nehemiah
+2024-03-31,"Amoxicillin, Vitamin C",1100,Card,Nathniel
+2024-03-31,Diclofenac,300,Cash,Alice
+2024-04-01,ibuprofen,1300,Cash,Nurse Lami
+2024-04-01,ibuprofen,1950,Cash,Nurse Lami
+2024-04-01,Doxycycline,2100,Cash,Esther
+2024-04-02,"Calcium Tablets,Ampiclox",3600,Cash,Nathniel
+2024-04-02,"Vitamin C, Iron Supplements",2600,Card,Alice
+2024-04-02,"Omega 3, Paracetamol",3850,Cash,Nathniel
+2024-04-03,"Omega 3, ibuprofen",2500,Cash,Nehemiah
+2024-04-03,"Calcium Tablets, ibuprofen",1300,Cash,Esther
+2024-04-03,Vitamin C,3950,Cash,Esther
+2024-04-04,"Iron Supplements, Vitamin C",4250,Card,Nathniel
+2024-04-04,"Doxycycline, Omega 3",1650,Cash,Nehemiah
+2024-04-04,diclofenac,3550,Cash,Nehemiah
+2024-04-04,Omega 3,1800,Card,Nathniel
+2024-04-04,"Amoxicillin, Doxycycline",2750,Cash,Nurse Lami
+2024-04-04,Azithrimycin,950,Card,Nurse Lami
+2024-04-04,"Ibuprofen, Omega 3",4200,Card,Nurse Lami
+2024-04-04,Aspirin,700,Card,Nathniel
+2024-04-05,"aspirin, Omega 3",3050,Card,Vicki
+2024-04-05,"Paracetamol, Iron Supplements",4350,Cash,Nathniel
+2024-04-05,"Iron Supplements, Iron Supplements",3600,Card,Nathniel
+2024-04-05,"Omega 3, ibuprofen",2150,Card,Nathniel
+2024-04-06,Azithrimycin,3450,Cash,Nurse Lami
+2024-04-06,"aspirin, Paracetamol",2450,Cash,Nurse Lami
+2024-04-06,"Calcium Tablets, Aspirin",2950,Card,Esther
+2024-04-06,Omega 3,3000,Cash,Nehemiah
+2024-04-06,"Azithrimycin, Aspirin",950,Cash,Alice
+2024-04-07,"Azithrimycin, diclofenac",1700,Card,Alice
+2024-04-08,"Vitamin C, Doxycycline",3050,Card,Alice
+2024-04-08,"Azithrimycin, Iron Supplements",2400,Cash,Nehemiah
+2024-04-08,"aspirin, ibuprofen",3150,Card,Nehemiah
+2024-04-09,"diclofenac, Doxycycline",4500,Cash,Nathniel
+2024-04-09,"diclofenac, Cephalexin,  Pro Cold",2300,Card,Esther
+2024-04-09,ibuprofen,2050,Card,Nehemiah
+2024-04-10,Vitamin C,1700,Cash,Nathniel
+2024-04-10,Aspirin,2600,Card,Nathniel
+2024-04-10,Iron Supplements,1750,Card,Esther
+2024-04-10,"diclofenac, Omega 3",3250,Cash,Esther
+2024-04-10,"Doxycycline, Omega 3",1300,Cash,Esther
+2024-04-11,"Vitamin C, Diclofenac",1350,Cash,Nathniel
+2024-04-11,"ibuprofen, Paracetamol",2150,Card,Vicki
+2024-04-11,"Amoxicillin, Azithrimycin",3000,Card,Alice
+2024-04-11,"Ibuprofen, Paracetamol",950,Card,Alice
+2024-04-11,"Iron Supplements, Paracetamol",1500,Card,Vicki
+2024-04-11,"ibuprofen, diclofenac",2400,Card,Nathniel
+2024-04-12,"Vitamin C, Aspirin",1900,Cash,Alice
+2024-04-13,"aspirin, Azithrimycin",3550,Card,Nathniel
+2024-04-13,Ciprofloxacin,2550,Cash,Esther
+2024-04-13,Ibuprofen,300,Cash,Nehemiah
+2024-04-13,Vitamin C,2400,Cash,Vicki
+2024-04-13,Doxycycline,950,Cash,Nathniel
+2024-04-14,Iron Supplements,4050,Cash,Vicki
+2024-04-14,Omega 3,3000,Cash,Vicki
+2024-04-14,"Vitamin C, Aspirin",950,Card,Nurse Lami
+2024-04-15,"Aspirin, Ciprofloxacin",4050,Cash,Vicki
+2024-04-15,"Calcium Tablets, aspirin",2850,Cash,Esther
+2024-04-15,"Omega 3, Iron Supplements",3200,Cash,Nurse Lami
+2024-04-15,"Omega 3, Doxycycline",2550,Cash,Alice
+2024-04-16,"Amoxicillin, Diclofenac",1800,Cash,Nurse Lami
+2024-04-16,"Aspirin, Ampiclox, Cephalexin",4350,Card,Nurse Lami
+2024-04-16,Ciprofloxacin,1300,Cash,Alice
+2024-04-17,Calcium Tablets,1350,Cash,Vicki
+2024-04-17,"diclofenac, Iron Supplements",3800,Card,Nathniel
+2024-04-17,Iron Supplements,1100,Cash,Alice
+2024-04-18,"Ibuprofen, Cephalexin",3200,Card,Esther
+2024-04-18,Calcium Tablets,1150,Cash,Vicki
+2024-04-18,Iron Supplements,1950,Cash,Vicki
+2024-04-19,"Omega 3, Ciprofloxacin",3700,Card,Nehemiah
+2024-04-20,Iron Supplements,3900,Cash,Esther
+2024-04-20,"Calcium Tablets, Diclofenac",4000,Cash,Vicki
+2024-04-20,"Iron Supplements, Vitamin C",2300,Card,Nurse Lami
+2024-04-20,"Calcium Tablets, Omega 3",3950,Cash,Esther
+2024-04-20,Ciprofloxacin,3600,Cash,Vicki
+2024-04-21,"Aspirin, ibuprofen, Cold syrup",1900,Card,Esther
+2024-04-21,ibuprofen,1100,Cash,Vicki
+2024-04-21,"Paracetamol, Diclofenac",4000,Cash,Nurse Lami
+2024-04-21,"Ciprofloxacin, Paracetamol",2600,Card,Esther
+2024-04-21,Doxycycline,400,Cash,Alice
+2024-04-21,Doxycycline,1850,Cash,Nathniel
+2024-04-22,Doxycycline,1750,Card,Alice
+2024-04-22,Iron Supplements,2900,Card,Nathniel
+2024-04-23,Ciprofloxacin,4200,Card,Nurse Lami
+2024-04-23,Calcium Tablets,4500,Card,Nurse Lami
+2024-04-23,"Paracetamol, diclofenac",2050,Cash,Alice
+2024-04-23,Calcium Tablets,4150,Cash,Nurse Lami
+2024-04-23,"ibuprofen, Amoxicillin",2000,Cash,Nathniel
+2024-04-23,Ciprofloxacin,850,Card,Alice
+2024-04-24,"Omeprexol,Ampiclox",4200,Cash,Alice
+2024-04-24,"Calcium Tablets, Omega 3",2950,Cash,Nehemiah
+2024-04-24,"Paracetamol, Vitamin C",600,Cash,Esther
+2024-04-24,Aspirin,450,Cash,Alice
+2024-04-25,Cold syrup,4300,Cash,Vicki
+2024-04-26,Ciprofloxacin,4100,Cash,Nathniel
+2024-04-26,Omega 3,1500,Card,Alice
+2024-04-26,Doxycycline,2300,Card,Nathniel
+2024-04-26,ibuprofen,2700,Cash,Nehemiah
+2024-04-26,Ciprofloxacin,1350,Card,Vicki
+2024-04-26,Citalopram HBR,3850,Card,Nathniel
+2024-04-27,"Omega 3, Iron Supplements",2350,Cash,Alice
+2024-04-27,Diclofenac,200,Card,Alice
+2024-04-29,"Iron Supplements, Paracetamol",4150,Card,Vicki
+2024-04-30,"ibuprofen, Doxycycline",1950,Cash,Esther
+2024-04-30,ibuprofen,2850,Cash,Esther
+2024-04-30,Ciprofloxacin,2750,Cash,Esther
+2024-04-30,"Azithrimycin, Amoxicillin",1000,Cash,Esther
+2024-04-30,Paracetamol,1800,Cash,Alice
+2024-04-30,"Vitamin C, Doxycycline",2550,Card,Alice
+2024-05-01,"Iron Supplements, Paracetamol",2550,Card,Alice
+2024-05-01,"Azithrimycin, Azithrimycin",2000,Card,Alice
+2024-05-01,Calcium Tablets,4500,Cash,Nathniel
+2024-05-01,"Calcium Tablets, Paracetamol",4300,Cash,Nehemiah
+2024-05-02,Diclofenac,1300,Card,Nathniel
+2024-05-02,Amoxicillin,950,Card,Nehemiah
+2024-05-02,"Aspirin, Iron Supplements",2400,Cash,Nathniel
+2024-05-03,"Iron Supplements, ibuprofen",1300,Card,Nurse Lami
+2024-05-03,Ibuprofen,430,Card,Nurse Lami
+2024-05-03,"diclofenac, Ciprofloxacin",3700,Cash,Esther
+2024-05-03,"Doxycycline, Paracetamol",1300,Cash,Esther
+2024-05-03,"Doxycycline, Vitamin C",3800,Cash,Vicki
+2024-05-03,"Ciprofloxacin, Paracetamol",3350,Cash,Vicki
+2024-05-03,Ibuprofen,450,Cash,Nehemiah
+2024-05-03,Iron Supplements,4350,Cash,Nehemiah
+2024-05-03,Calcium Tablets,1100,Cash,Alice
+2024-05-04,"Paracetamol, Calcium Tablets",4350,Card,Esther
+2024-05-04,"Vitamin C, Iron Supplements",1750,Card,Alice
+2024-05-04, Paracetamol,700,Cash,Vicki
+2024-05-04,"Paracetamol, Aspirin",950,Cash,Vicki
+2024-05-04,Ciprofloxacin,1550,Card,Nathniel
+2024-05-04,"Ciprofloxacin, Iron Supplements",3100,Cash,Nathniel
+2024-05-05,"Doxycycline, Aspirin",2500,Card,Nurse Lami
+2024-05-05,"Iron Supplements, Vitamin C",4000,Card,Vicki
+2024-05-05,"Ciprofloxacin, aspirin",3800,Card,Nathniel
+2024-05-06,Calcium Tablets,2200,Cash,Nathniel
+2024-05-06,"Amoxicillin, Amoxicillin",1900,Cash,Nehemiah
+2024-05-06,"Ciprofloxacin, Omega 3",4500,Card,Vicki
+2024-05-06,", ibuprofen",3250,Card,Alice
+2024-05-06,Amoxicillin,800,Cash,Alice
+2024-05-06,Calcium Tablets,3050,Cash,Nurse Lami
+2024-05-06,Aspirin,650,Cash,Nathniel
+2024-05-06,Aspirin,700,Card,Vicki
+2024-05-07,"Omega 3, Doxycycline",3700,Cash,Vicki
+2024-05-07,"Omega 3, Calcium Tablets",1600,Cash,Esther
+2024-05-07,ibuprofen,1700,Cash,Nathniel
+2024-05-07,"Azithrimycin, Ciprofloxacin",2200,Cash,Nehemiah
+2024-05-07,Doxycycline,1950,Card,Nurse Lami
+2024-05-07,"Ibuprofen, Omeprexol",4300,Cash,Alice
+2024-05-07,Azithrimycin,3900,Card,Nathniel
+2024-05-08,"Paracetamol, Ciprofloxacin",1150,Card,Nathniel
+2024-05-08,ibuprofen,1100,Card,Nehemiah
+2024-05-08,"Azithrimycin, ibuprofen",2700,Card,Nathniel
+2024-05-08,Vitamin C,1650,Card,Nurse Lami
+2024-05-08,Vitamin C,500,Card,Nehemiah
+2024-05-08,Ibuprofen,1000,Card,Nehemiah
+2024-05-09,Omeprexol,1550,Card,Vicki
+2024-05-09,"Ibuprofen, Ciprofloxacin",1250,Card,Nehemiah
+2024-05-09,Iron Supplements,1150,Cash,Nehemiah
+2024-05-09,"Doxycycline, Vitamin C",2950,Cash,Nathniel
+2024-05-10,Diclofenac,2650,Card,Esther
+2024-05-10,"Aspirin, Paracetamol",2150,Cash,Nathniel
+2024-05-10,"Calcium Tablets, Iron Supplements",1800,Cash,Nathniel
+2024-05-10,Aspirin,1700,Cash,Nurse Lami
+2024-05-11,Ciprofloxacin,1800,Cash,Alice
+2024-05-11,Doxycycline,3100,Card,Nehemiah
+2024-05-11,"Iron Supplements, ibuprofen",2150,Cash,Nurse Lami
+2024-05-11,"Amoxicillin, diclofenac",3050,Card,Nurse Lami
+2024-05-11,"Omega 3, ibuprofen",1800,Card,Vicki
+2024-05-12,Diclofenac,4300,Cash,Alice
+2024-05-12,"Calcium Tablets, Amoxicillin",2250,Cash,Nathniel
+2024-05-13,Amoxicillin,2700,Card,Nehemiah
+2024-05-13,Omega 3,3400,Cash,Alice
+2024-05-13,"Doxycycline, Omega 3",1350,Cash,Nehemiah
+2024-05-13,Ciprofloxacin,2950,Cash,Alice
+2024-05-13,Aspirin,400,Cash,Esther
+2024-05-13,Vitamin C,650,Cash,Alice
+2024-05-14,"Vitamin C, Paracetamol",2800,Cash,Alice
+2024-05-14,Vitamin C,1300,Cash,Nathniel
+2024-05-15,", Omega 3",2700,Cash,Alice
+2024-05-15,Iron Supplements,2300,Cash,Vicki
+2024-05-15,"Diclofenac, Ciprofloxacin",3900,Card,Nehemiah
+2024-05-15,"Diclofenac, Aspirin",3850,Cash,Vicki
+2024-05-16,"Vitamin C, Omega 3",4350,Cash,Nurse Lami
+2024-05-16,"Vitamin C, Azithrimycin",950,Card,Vicki
+2024-05-17,Paracetamol,350,Card,Nehemiah
+2024-05-17,"aspirin, Ciprofloxacin",1700,Cash,Nurse Lami
+2024-05-17,"Aspirin, Omeprexol, Ampiclox",3950,Cash,Esther
+2024-05-17,Paracetamol,3550,Card,Nurse Lami
+2024-05-18,"Omega 3, Ciprofloxacin",1950,Card,Nathniel
+2024-05-18,"Paracetamol, Omeprexol",1750,Card,Nathniel
+2024-05-19,"Vitamin C, Doxycycline",2350,Card,Nathniel
+2024-05-19,"Omega 3, Ibuprofen",4200,Card,Alice
+2024-05-19,"Omega 3, Paracetamol",2450,Cash,Esther
+2024-05-20,"aspirin, Doxycycline",2050,Cash,Vicki
+2024-05-20,"Iron Supplements, Iron Supplements",3850,Card,Nurse Lami
+2024-05-20,Omega 3,1400,Card,Alice
+2024-05-21,Iron Supplements,1400,Card,Nehemiah
+2024-05-21,Paracetamol,3400,Card,Alice
+2024-05-21,"Iron Supplements, diclofenac",4250,Cash,Alice
+2024-05-21,"Iron Supplements, Doxycycline",3850,Cash,Nurse Lami
+2024-05-21,"Azithrimycin, Vitamin C",2900,Card,Esther
+2024-05-22,"Doxycycline, Iron Supplements",4400,Cash,Alice
+2024-05-22,Iron Supplements,2350,Cash,Alice
+2024-05-23,Aspirin,1950,Cash,Nehemiah
+2024-05-23,Calcium Tablets,3150,Cash,Nathniel
+2024-05-23,"Calcium Tablets, ibuprofen",2750,Cash,Nehemiah
+2024-05-23,Doxycycline,1050,Cash,Alice
+2024-05-24,"Calcium Tablets, aspirin",1600,Cash,Nehemiah
+2024-05-24,Omega 3,3750,Cash,Nathniel
+2024-05-24,Calcium Tablets,1750,Card,Nehemiah
+2024-05-24,"Vitamin C, Azithrimycin",2050,Card,Nurse Lami
+2024-05-24,"Iron Supplements, Vitamin C",3000,Card,Esther
+2024-05-25,Iron Supplements,3350,Cash,Esther
+2024-05-25,"ibuprofen, Omega 3",1250,Card,Vicki
+2024-05-25,"Paracetamol, Omeprexol",1050,Card,Alice
+2024-05-25,"Cephalexin, Paracetamol",1800,Card,Nathniel
+2024-05-26,ibuprofen,4000,Card,Vicki
+2024-05-26,", Azithrimycin",1950,Card,Vicki
+2024-05-26,"Vitamin C, Paracetamol",1150,Cash,Vicki
+2024-05-26,"Iron Supplements, Azithrimycin",2700,Cash,Nurse Lami
+2024-05-26,Aspirin,350,Card,Alice
+2024-05-27,"Calcium Tablets, Amoxicillin",1750,Cash,Esther
+2024-05-27,Ibuprofen,500,Cash,Vicki
+2024-05-28,"Iron Supplements, Vitamin C",4100,Cash,Nathniel
+2024-05-28,Azithrimycin,2150,Cash,Nurse Lami
+2024-05-28,Ciprofloxacin,900,Cash,Nehemiah
+2024-05-29,"Diclofenac, Ciprofloxacin",1100,Card,Alice
+2024-05-30,Azithrimycin,2900,Cash,Esther
+2024-05-30,Doxycycline,700,Cash,Esther
+2024-05-30,"ibuprofen, Paracetamol",2850,Cash,Nehemiah
+2024-05-30,"Doxycycline, Iron Supplements",1400,Cash,Nehemiah
+2024-05-31,"Iron Supplements, Doxycycline",1850,Cash,Nehemiah
+2024-05-31,Calcium Tablets,3500,Cash,Vicki
+2024-06-01,"Diclofenac, Tutolin",2000,Cash,Alice
+2024-06-01,Doxycycline,1050,Cash,Vicki
+2024-06-01, Omega 3,1450,Cash,Nehemiah
+2024-06-01,"Iron Supplements, Calcium Tablets",2100,Cash,Alice
+2024-06-01,"Vitamin C, Ciprofloxacin",2450,Cash,Nurse Lami
+2024-06-01, Paracetamol,500,Cash,Esther
+2024-06-02,Iron Supplements,2400,Cash,Nehemiah
+2024-06-02,"Omega 3, Iron Supplements",1900,Cash,Esther
+2024-06-02,"ibuprofen, Vitamin C",3050,Card,Nehemiah
+2024-06-02,"Aspirin, Ampiclox, Cephalexin",2950,Card,Nurse Lami
+2024-06-02,Omega 3,3550,Card,Vicki
+2024-06-02,"Azithrimycin, Omega 3",3000,Cash,Vicki
+2024-06-02,"Aspirin, Paracetamol",650,Card,Vicki
+2024-06-03,Azithrimycin,3800,Cash,Nehemiah
+2024-06-03,"Iron Supplements, Ciprofloxacin",1250,Cash,Esther
+2024-06-03,"Azithrimycin, Doxycycline",2700,Card,Vicki
+2024-06-03,"Vitamin C, Azithrimycin",4200,Cash,Esther
+2024-06-03,Ibuprofen,2250,Card,Vicki
+2024-06-03,"Iron Supplements, Paracetamol",2250,Cash,Nathniel
+2024-06-03,Funbact A,700,Cash,Nurse Lami
+2024-06-03,Doxycycline,1250,Card,Nurse Lami
+2024-06-04,Amoxicillin,2850,Cash,Vicki
+2024-06-04,Vitamin C,150,Card,Alice
+2024-06-04,"Ibuprofen, Azithrimycin",3600,Cash,Esther
+2024-06-04,"Diclofenac, Omega 3",3300,Cash,Nehemiah
+2024-06-04,Iron Supplements,3150,Card,Alice
+2024-06-04,Paracetamol,4000,Cash,Nehemiah
+2024-06-05,Paracetamol,1600,Card,Vicki
+2024-06-05,Vitamin C,2650,Cash,Alice
+2024-06-05,"Azithrimycin, Calcium Tablets",1150,Cash,Nehemiah
+2024-06-05,"Ciprofloxacin, Paracetamol",1850,Cash,Nathniel
+2024-06-06,"aspirin, Iron Supplements",3050,Cash,Alice
+2024-06-06,"Paracetamol, Iron Supplements",1050,Cash,Alice
+2024-06-06,Doxycycline,1100,Card,Nathniel
+2024-06-06,"Doxycycline, Ciprofloxacin",1400,Card,Vicki
+2024-06-06,Azithrimycin,1350,Card,Nathniel
+2024-06-06,"Ciprofloxacin, Iron Supplements",2600,Cash,Vicki
+2024-06-06,Azithrimycin,2450,Cash,Nathniel
+2024-06-06,Vitamin C,350,Cash,Esther
+2024-06-07,"Azithrimycin, Iron Supplements",4000,Card,Nathniel
+2024-06-07,"Calcium Tablets, Iron Supplements",2000,Cash,Nurse Lami
+2024-06-07,Azithrimycin,2000,Card,Nurse Lami
+2024-06-07,Amoxicillin,1400,Card,Vicki
+2024-06-07,"Calcium Tablets, aspirin",4150,Card,Nathniel
+2024-06-07,"Ibuprofen, Amoxicillin",600,Card,Nathniel
+2024-06-07,Calcium Tablets,1800,Cash,Esther
+2024-06-07,Iron Supplements,2050,Cash,Esther
+2024-06-08,"Azithrimycin, Azithrimycin",1050,Cash,Alice
+2024-06-08,Doxycycline,1350,Cash,Vicki
+2024-06-08,"Omega 3, ibuprofen",1100,Card,Nehemiah
+2024-06-08,Diclofenac,4250,Cash,Esther
+2024-06-09,Aspirin,300,Card,Nathniel
+2024-06-10,"diclofenac, Amoxicillin",3050,Card,Nehemiah
+2024-06-10,Aspirin,1600,Cash,Nurse Lami
+2024-06-10,"Diclofenac, Iron Supplements",2350,Cash,Nathniel
+2024-06-10,"Vitamin C, Diclofenac",1350,Cash,Nehemiah
+2024-06-10,FUROSEMIDE,1600,Cash,Nehemiah
+2024-06-11,"Ciprofloxacin, Iron Supplements",3550,Card,Nehemiah
+2024-06-11,"Amoxicillin, Azithrimycin",1700,Card,Nehemiah
+2024-06-12,"Diclofenac, Calcium Tablets",1500,Card,Nehemiah
+2024-06-12,Diclofenac,1050,Cash,Alice
+2024-06-12,"Doxycycline, Ciprofloxacin, Omega 3",4450,Card,Nathniel
+2024-06-12,"Vitamin C, Diclofenac",2100,Cash,Vicki
+2024-06-12,Doxycycline,1800,Cash,Nehemiah
+2024-06-12,Omega 3,1850,Card,Nehemiah
+2024-06-12, Azithrimycin,1100,Card,Nehemiah
+2024-06-13,"Azithrimycin, diclofenac",4400,Card,Vicki
+2024-06-13,Azithrimycin,2000,Card,Nehemiah
+2024-06-13,Amoxicillin,4100,Card,Nurse Lami
+2024-06-14,"Omega 3, diclofenac",1150,Card,Nehemiah
+2024-06-14,"Calcium Tablets, Paracetamol",3250,Card,Alice
+2024-06-14,"Vitamin C, Diclofenac",950,Cash,Esther
+2024-06-15,"Iron Supplements, Vitamin C",4150,Cash,Alice
+2024-06-15, Doxycycline,2850,Card,Nurse Lami
+2024-06-15,"Amoxicillin,Omeprexol",4500,Cash,Nehemiah
+2024-06-15,Diclofenac,1650,Card,Nurse Lami
+2024-06-15,"Paracetamol, ibuprofen",1750,Cash,Vicki
+2024-06-16,"Vitamin C, Ciprofloxacin",3150,Card,Nurse Lami
+2024-06-16,"Doxycycline, Omega 3",1600,Card,Esther
+2024-06-16,"Amoxicillin, Amoxicillin",1600,Card,Vicki
+2024-06-16,"Ibuprofen, Diclofenac",1250,Cash,Alice
+2024-06-17,", Azithrimycin",3200,Cash,Alice
+2024-06-17,Doxycycline,4350,Cash,Nathniel
+2024-06-17,Paracetamol,950,Card,Esther
+2024-06-17,Vitamin C,200,Cash,Nehemiah
+2024-06-18,Aspirin,350,Cash,Vicki
+2024-06-18,Omega 3,2000,Card,Alice
+2024-06-18,"Vitamin C, Ibuprofen",1100,Cash,Esther
+2024-06-18,Calcium Tablets,3700,Card,Esther
+2024-06-19,"Iron Supplements, Vitamin C",1200,Cash,Alice
+2024-06-19,"Aspirin , Vitamin C",2850,Card,Nathniel
+2024-06-19,Ibuprofen,1750,Cash,Esther
+2024-06-19,Ciprofloxacin,1950,Cash,Alice
+2024-06-19,Ibuprofen,350,Cash,Esther
+2024-06-19,diclofenac,3100,Cash,Nathniel
+2024-06-20,Ciprofloxacin,2450,Cash,Esther
+2024-06-20,Cephalexin,1000,Cash,Alice
+2024-06-21,"Amoxicillin, Ciprofloxacin",4100,Card,Nurse Lami
+2024-06-21,ibuprofen,4200,Card,Nathniel
+2024-06-22,"Vitamin C,  Pro Cold",1100,Cash,Esther
+2024-06-22,Ciprofloxacin,950,Card,Esther
+2024-06-22,Paracetamol,2200,Card,Nathniel
+2024-06-23,"Vitamin C, Azithrimycin",3100,Cash,Vicki
+2024-06-23,Vitamin C,450,Card,Nurse Lami
+2024-06-23,"Paracetamol, Omega 3",3500,Cash,Alice
+2024-06-23,"Ciprofloxacin, Omega 3",1650,Card,Esther
+2024-06-24,Azithrimycin,3600,Card,Esther
+2024-06-24,"Ciprofloxacin, Amoxicillin",2300,Cash,Alice
+2024-06-24,"diclofenac, aspirin",4000,Cash,Alice
+2024-06-25,"Doxycycline, Vitamin C",4200,Cash,Nathniel
+2024-06-25,ibuprofen,2700,Card,Nehemiah
+2024-06-25,"Omega 3, Doxycycline",4050,Card,Alice
+2024-06-25,"Paracetamol, Vitamin C",750,Card,Nehemiah
+2024-06-26,"Cephalexin, Ibuprofin",3700,Cash,Nathniel
+2024-06-27, Paracetamol,300,Card,Vicki
+2024-06-27,Omega 3,1700,Cash,Esther
+2024-06-27,"Cephalexin, Funbact A",2450,Cash,Nathniel
+2024-06-28,"Ibuprofen, Vitamin C",1150,Cash,Vicki
+2024-06-28,"Ciprofloxacin, aspirin",1150,Card,Alice
+2024-06-29,"Aspirin, Paracetamol",1050,Cash,Esther
+2024-06-29,Paracetamol,3250,Card,Vicki
+2024-06-29,Amoxicillin,750,Cash,Nehemiah
+2024-06-29,Calcium Tablets,3700,Cash,Vicki
+2024-06-29,Paracetamol,400,Cash,Nathniel
+2024-06-29,Ibuprofen,450,Cash,Nurse Lami
+2024-06-30,"Paracetamol, Calcium Tablets",4450,Cash,Esther
+2024-06-30,"Calcium Tablets, Ibuprofen",2250,Cash,Nehemiah
+2024-06-30,"Vitamin C, Calcium Tablets",1950,Cash,Nehemiah
+2024-06-30,"Aspirin, Funbact A",1400,Card,Nathniel
+2024-06-30,Vitamin C,400,Cash,Alice
+2024-06-30,ibuprofen,400,Card,Alice
+2024-06-30,Omega 3,3750,Card,Nathniel
+2024-07-01,Paracetamol,3850,Card,Nehemiah
+2024-07-01,"Cephalexin, Ampiclox",2950,Cash,Nurse Lami
+2024-07-01,"Omeprexol, Ampiclox",3500,Cash,Vicki
+2024-07-02,Doxycycline,1300,Card,Esther
+2024-07-02,"Paracetamol, Vitamin C",1700,Cash,Alice
+2024-07-03,Ibuprofen,600,Cash,Alice
+2024-07-03,"diclofenac, Doxycycline",4200,Cash,Nathniel
+2024-07-04,"Paracetamol, Diclofenac",2600,Card,Esther
+2024-07-04,Diclofenac,4200,Cash,Nehemiah
+2024-07-05,"Ciprofloxacin, ibuprofen",1750,Cash,Alice
+2024-07-05,"Amoxicillin, Calcium Tablets",1400,Cash,Alice
+2024-07-06,ibuprofen,2300,Card,Alice
+2024-07-06,"Doxycycline, Calcium Tablets",2600,Cash,Nehemiah
+2024-07-06,"Paracetamol, Calcium Tablets",4150,Cash,Nehemiah
+2024-07-06,Doxycycline,1850,Card,Nurse Lami
+2024-07-06,Cephalexin,400,Card,Alice
+2024-07-06,ibuprofen,1700,Cash,Vicki
+2024-07-06,"Doxycycline, Azithrimycin",4350,Cash,Nathniel
+2024-07-07,Ciprofloxacin,2800,Cash,Nathniel
+2024-07-07,Funbact A,1500,Cash,Nurse Lami
+2024-07-07,"Omega 3, Amoxicillin",3150,Cash,Esther
+2024-07-07,"Ciprofloxacin, Paracetamol",3150,Cash,Nathniel
+2024-07-08,"Calcium Tablets, Paracetamol",1400,Cash,Esther
+2024-07-08,"Amoxicillin, aspirin",2450,Cash,Esther
+2024-07-08,ibuprofen,1700,Card,Nehemiah
+2024-07-08,Diclofenac,400,Cash,Esther
+2024-07-08,Amoxicillin,750,Card,Nurse Lami
+2024-07-09,"ibuprofen, Funbact A",3350,Cash,Vicki
+2024-07-09,Omega 3,2300,Cash,Nehemiah
+2024-07-09,"Ciprofloxacin, Vitamin C",1050,Cash,Nurse Lami
+2024-07-10,Diclofenac,950,Cash,Alice
+2024-07-10,Iron Supplements,1500,Cash,Alice
+2024-07-10,"Azithrimycin, Calcium Tablets",3450,Cash,Alice
+2024-07-11,Ciprofloxacin,1200,Card,Nathniel
+2024-07-11,Vitamin C,1150,Cash,Nehemiah
+2024-07-11,"ibuprofen, Iron Supplements",3200,Card,Esther
+2024-07-11,"Paracetamol, Doxycycline",2050,Cash,Nehemiah
+2024-07-12,Iron Supplements,2250,Cash,Alice
+2024-07-12,"diclofenac, ibuprofen",3300,Cash,Nehemiah
+2024-07-12,Amoxicillin,600,Cash,Vicki
+2024-07-12,"Ciprofloxacin, Aspirin",1950,Cash,Vicki
+2024-07-13,ibuprofen,3600,Card,Nathniel
+2024-07-13,"Azithrimycin, diclofenac",2100,Cash,Nurse Lami
+2024-07-14,Vitamin C,3200,Card,Esther
+2024-07-14,Aspirin,1750,Cash,Nurse Lami
+2024-07-14,"Azithrimycin, Doxycycline",3400,Card,Nehemiah
+2024-07-14,Diclofenac,800,Card,Esther
+2024-07-14,Paracetamol,2150,Card,Vicki
+2024-07-15,Aspirin,1100,Card,Nurse Lami
+2024-07-15,Azithrimycin,3000,Cash,Vicki
+2024-07-15,"Doxycycline, Calcium Tablets",1250,Cash,Nurse Lami
+2024-07-15,"Vitamin C, Omega 3",1650,Cash,Nathniel
+2024-07-15,Amoxicillin,200,Card,Nurse Lami
+2024-07-16,"Amoxicillin, Ciprofloxacin, Omega 3",4050,Card,Esther
+2024-07-16,Iron Supplements,2000,Cash,Nurse Lami
+2024-07-16,"Paracetamol, Ibuprofen",1050,Cash,Nurse Lami
+2024-07-17,Iron Supplements,1350,Cash,Alice
+2024-07-17,Diclofenac,2150,Cash,Nehemiah
+2024-07-17,Amoxicillin,2200,Cash,Nehemiah
+2024-07-17,Doxycycline,3750,Cash,Nathniel
+2024-07-17,"Ibuprofen, Omeprexol",3400,Card,Esther
+2024-07-18,Azithrimycin,1100,Card,Vicki
+2024-07-18,"Vitamin C, Azithrimycin",3600,Card,Nathniel
+2024-07-18,"Aspirin, Cephalexin",1750,Cash,Esther
+2024-07-19,Doxycycline,1800,Cash,Vicki
+2024-07-20,"Vitamin C, Doxycycline",3050,Cash,Nehemiah
+2024-07-20,Iron Supplements,3000,Card,Nathniel
+2024-07-20,Aspirin,3200,Cash,Esther
+2024-07-20,"ibuprofen, Calcium Tablets",1400,Cash,Nehemiah
+2024-07-20,"Vitamin C, Ciprofloxacin,Ampiclox",4150,Cash,Vicki
+2024-07-20,"Ciprofloxacin, Calcium Tablets",1750,Cash,Esther
+2024-07-20,"ibuprofen, Calcium Tablets",950,Cash,Alice
+2024-07-20,ibuprofen,250,Card,Nurse Lami
+2024-07-20,"Iron Supplements, Vitamin C",1200,Cash,Vicki
+2024-07-21,aspirin,1850,Cash,Nathniel
+2024-07-21,Iron Supplements,3700,Cash,Alice
+2024-07-21,"Diclofenac, Paracetamol",1950,Cash,Vicki
+2024-07-21,"Omega 3, Calcium Tablets",3500,Card,Esther
+2024-07-21,"Amoxicillin, Ciprofloxacin",450,Cash,Alice
+2024-07-21,Azithrimycin,550,Cash,Alice
+2024-07-21,Omega 3,3900,Cash,Alice
+2024-07-22,"Cold syrup, Vitamin C, Aspirin",2550,Cash,Esther
+2024-07-22,Vitamin C,900,Cash,Alice
+2024-07-22,Omega 3,4400,Cash,Vicki
+2024-07-22,"Paracetamol, diclofenac",1150,Cash,Esther
+2024-07-23,"Ciprofloxacin, Aspirin",1150,Card,Nurse Lami
+2024-07-23,Amoxicillin,550,Cash,Nurse Lami
+2024-07-23,"Diclofenac, Omeprexol",2100,Cash,Nathniel
+2024-07-24,"Vitamin C, Ciprofloxacin",1050,Card,Nathniel
+2024-07-24,"aspirin, ibuprofen",1200,Card,Alice
+2024-07-24,"Omega 3, Ciprofloxacin",1250,Card,Nehemiah
+2024-07-24,Ibuprofen,1600,Card,Vicki
+2024-07-24,"Calcium Tablets, ibuprofen",2500,Cash,Alice
+2024-07-25,aspirin,1250,Card,Nurse Lami
+2024-07-25,"Omega 3, Amoxicillin",3650,Cash,Alice
+2024-07-25,Omeprexol,1600,Card,Nurse Lami
+2024-07-25,"Aspirin, Calcium Tablets",2500,Cash,Nurse Lami
+2024-07-25,Aspirin,300,Cash,Nathniel
+2024-07-25,"Cephalexin, Amoxicillin",3400,Card,Alice
+2024-07-26,Iron Supplements,3550,Cash,Nathniel
+2024-07-26,"Omega 3, Ciprofloxacin",3950,Cash,Nurse Lami
+2024-07-26,"Ibuprofen, Omega 3",1350,Card,Nehemiah
+2024-07-27,Ciprofloxacin,4450,Card,Nehemiah
+2024-07-27,"Calcium Tablets, Iron Supplements, Omeprexol",4150,Card,Vicki
+2024-07-27,Paracetamol,950,Card,Esther
+2024-07-27,"Vitamin C, Calcium Tablets",1550,Cash,Vicki
+2024-07-27,Diclofenac,550,Cash,Esther
+2024-07-27,Amoxicillin,950,Card,Nehemiah
+2024-07-28,"Azithrimycin, Vitamin C",1350,Cash,Alice
+2024-07-28,"Amoxicillin, Cephalexin",4250,Cash,Vicki
+2024-07-28,"Doxycycline, Vitamin C",3100,Card,Nathniel
+2024-07-28,Omega 3,2450,Cash,Nehemiah
+2024-07-28,Vitamin C,250,Card,Esther
+2024-07-28,"Calcium Tablets, aspirin",4050,Card,Nehemiah
+2024-07-28,"Paracetamol, Calcium Tablets",2300,Cash,Alice
+2024-07-28,Vitamin C,400,Card,Vicki
+2024-07-28,"Amoxicillin, Vitamin C",1300,Cash,Nehemiah
+2024-07-29,Ibuprofen,430,Cash,Esther
+2024-07-29,Omeprexol,3150,Card,Nehemiah
+2024-07-29,Paracetamol,450,Card,Alice
+2024-07-29,Ciprofloxacin,700,Cash,Nathniel
+2024-07-29,"Iron Supplements, Paracetamol",1100,Card,Vicki
+2024-07-29,Iron Supplements,2950,Cash,Nehemiah
+2024-07-30,"Calcium Tablets, Calcium Tablets",3250,Card,Vicki
+2024-07-30,"Iron Supplements, Ciprofloxacin",4350,Card,Nurse Lami
+2024-07-30,Calcium Tablets,1050,Cash,Nathniel
+2024-07-30,"Aspirin, Azithrimycin",1500,Cash,Nathniel
+2024-07-30,Vitamin C,1000,Cash,Vicki
+2024-07-30,diclofenac,1000,Cash,Vicki
+2024-07-31,aspirin,2900,Card,Vicki
+2024-07-31,Calcium Tablets,2150,Cash,Esther
+2024-07-31,Vitamin C,1600,Card,Esther
+2024-07-31,Paracetamol,650,Cash,Nurse Lami
+2024-08-01,Omega 3,3550,Cash,Nurse Lami
+2024-08-01,diclofenac,400,Cash,Nehemiah
+2024-08-01,Ciprofloxacin,750,Card,Esther
+2024-08-02,Omega 3,2450,Card,Nehemiah
+2024-08-03,"Amoxicillin, Doxycycline",2950,Cash,Nurse Lami
+2024-08-03,"Vitamin C, Diclofenac",900,Cash,Nurse Lami
+2024-08-03,Ibuprofen,900,Card,Nurse Lami
+2024-08-04,Diclofenac,2350,Card,Esther
+2024-08-04,Omeprexol,1550,Cash,Nathniel
+2024-08-04,"Ciprofloxacin, Iron Supplements",3450,Card,Alice
+2024-08-04,"Ciprofloxacin, ibuprofen",1150,Cash,Nathniel
+2024-08-05,"Diclofenac, Ciprofloxacin",4300,Card,Nurse Lami
+2024-08-05,"aspirin, Paracetamol",2150,Card,Alice
+2024-08-05,"ibuprofen, Amoxicillin",3100,Card,Nathniel
+2024-08-07,"ibuprofen, Paracetamol",1700,Cash,Alice
+2024-08-07,Omeprexol,1600,Card,Nathniel
+2024-08-07,Doxycycline,1050,Cash,Esther
+2024-08-07,Vitamin C,800,Cash,Nurse Lami
+2024-08-07,Ibuprofen,350,Card,Nurse Lami
+2024-08-08,Azithrimycin,2650,Cash,Nathniel
+2024-08-08,"Amoxicillin, ibuprofen",3100,Cash,Nathniel
+2024-08-08,"Omega 3, aspirin",4050,Cash,Nurse Lami
+2024-08-09,Calcium Tablets,2900,Card,Nurse Lami
+2024-08-09,Paracetamol,3500,Card,Nathniel
+2024-08-09,"Omega 3, Paracetamol",3400,Cash,Nurse Lami
+2024-08-10,"Ampiclox, Vitamin C",1500,Cash,Alice
+2024-08-10,"Ibuprofen, Omeprexol",3050,Card,Nurse Lami
+2024-08-11,"Paracetamol, Ciprofloxacin",1300,Cash,Vicki
+2024-08-11,Doxycycline,3650,Cash,Alice
+2024-08-11,"aspirin, Vitamin C",3100,Cash,Nathniel
+2024-08-11,"Omega 3, Calcium Tablets",2500,Cash,Alice
+2024-08-11,Amoxicillin,3550,Card,Nurse Lami
+2024-08-11,"Amoxicillin, Cephalexin",3050,Cash,Alice
+2024-08-11,"Amoxicillin, ibuprofen",3500,Card,Nehemiah
+2024-08-12,Doxycycline,3200,Card,Nathniel
+2024-08-12,Ciprofloxacin,2400,Cash,Nehemiah
+2024-08-12,"Calcium Tablets, Azithrimycin",3700,Cash,Esther
+2024-08-12,"Ciprofloxacin, Omeprexol",4500,Card,Nathniel
+2024-08-13,"Azithrimycin, Paracetamol",1100,Card,Alice
+2024-08-13,"Omega 3, Calcium Tablets",3100,Card,Nathniel
+2024-08-13,"Calcium Tablets, Azithrimycin",2300,Cash,Vicki
+2024-08-13,"Aspirin, Calcium Tablets,  Escitalopram oxalate",2450,Card,Nathniel
+2024-08-14,Vitamin C,4200,Card,Nathniel
+2024-08-14,Vitamin C,2250,Card,Nurse Lami
+2024-08-14,"Iron Supplements, Iron Supplements",4450,Card,Nathniel
+2024-08-14,"Vitamin C, Doxycycline",1050,Cash,Esther
+2024-08-15,"diclofenac, Paracetamol",3100,Card,Nurse Lami
+2024-08-15,Iron Supplements,4350,Card,Nurse Lami
+2024-08-15,"Vitamin C, Amoxicillin",3000,Card,Nathniel
+2024-08-15,Diclofenac,950,Cash,Esther
+2024-08-15,"Aspirin, Omega 3",1850,Cash,Nathniel
+2024-08-16,aspirin,1800,Cash,Nehemiah
+2024-08-16,"Ciprofloxacin, Iron Supplements",3000,Card,Nehemiah
+2024-08-16,Ciprofloxacin,1100,Cash,Nathniel
+2024-08-16,"Paracetamol, Azithrimycin",1100,Cash,Vicki
+2024-08-16,Paracetamol,550,Card,Alice
+2024-08-17,Azithrimycin,3550,Cash,Alice
+2024-08-17,Vitamin C,300,Card,Esther
+2024-08-18,Ciprofloxacin,3150,Card,Alice
+2024-08-18,"Amoxicillin, Diclofenac",1550,Cash,Esther
+2024-08-18,Amoxicillin,1000,Cash,Alice
+2024-08-18,Amoxicillin,650,Cash,Esther
+2024-08-19,Aspirin,400,Cash,Nehemiah
+2024-08-20,Doxycycline,1750,Card,Nehemiah
+2024-08-20,ibuprofen,2250,Card,Nehemiah
+2024-08-20,"Vitamin C, Diclofenac",2350,Card,Vicki
+2024-08-21,diclofenac,2550,Cash,Nathniel
+2024-08-21,Amoxicillin,1350,Card,Esther
+2024-08-22,"ibuprofen, Iron Supplements",1400,Cash,Nehemiah
+2024-08-22,diclofenac,1150,Card,Nathniel
+2024-08-23,"Vitamin C, Paracetamol",1650,Card,Alice
+2024-08-23,"ibuprofen, Diclofenac, Pro Cold",3350,Card,Nurse Lami
+2024-08-23,"Iron Supplements, Ibuprofen",1550,Cash,Nurse Lami
+2024-08-23,"Omega 3,  Escitalopram oxalate",2450,Cash,Nurse Lami
+2024-08-24,Aspirin,1050,Cash,Alice
+2024-08-24,"Amoxicillin, Paracetamol",2400,Cash,Vicki
+2024-08-26,Omega 3,2500,Card,Nathniel
+2024-08-26,"Omega 3, Funbact A",4500,Card,Vicki
+2024-08-26,Iron Supplements,2950,Cash,Esther
+2024-08-26,"Paracetamol, Iron Supplements",2950,Cash,Nathniel
+2024-08-26,"Aspirin, Funbact A",3650,Cash,Esther
+2024-08-26,"Amoxicillin, Omega 3",2900,Card,Nathniel
+2024-08-26,Iron Supplements,950,Cash,Nehemiah
+2024-08-27,"Omega 3, Amoxicillin",1050,Cash,Nurse Lami
+2024-08-27,Iron Supplements,3500,Card,Nathniel
+2024-08-27,Omega 3,3950,Card,Nurse Lami
+2024-08-27,Doxycycline,3000,Cash,Vicki
+2024-08-28,"Vitamin C, diclofenac",1950,Card,Vicki
+2024-08-28,Iron Supplements,1250,Cash,Nehemiah
+2024-08-28,"Doxycycline, Aspirin",1550,Cash,Alice
+2024-08-29,"Ciprofloxacin, ibuprofen",1500,Card,Vicki
+2024-08-29,Ciprofloxacin,500,Card,Nathniel
+2024-08-29,Calcium Tablets,1650,Cash,Vicki
+2024-08-29,Calcium Tablets,1500,Cash,Alice
+2024-08-30,Paracetamol,4250,Card,Esther
+2024-08-30,Iron Supplements,1300,Card,Vicki
+2024-08-31,"Ciprofloxacin, Vitamin C",3750,Cash,Vicki
+2024-08-31,Doxycycline,1100,Cash,Alice
+2024-08-31,Omega 3,1950,Card,Vicki
+2024-08-31,"Amoxicillin, Vitamin C",1250,Card,Nehemiah
+2024-08-31,"Paracetamol, Doxycycline",1100,Cash,Alice
+2024-09-01,Aspirin,400,Card,Nehemiah
+2024-09-01,"Ciprofloxacin, Doxycycline",3050,Cash,Nurse Lami
+2024-09-02,"aspirin, Azithrimycin",1550,Cash,Esther
+2024-09-02,"Amoxicillin, Azithrimycin",3000,Card,Nathniel
+2024-09-02,"diclofenac, Vitamin C",3600,Cash,Nurse Lami
+2024-09-03,",Calcium Tablets",1300,Cash,Esther
+2024-09-03,Calcium Tablets,2000,Card,Nathniel
+2024-09-03,Escitalopram oxalate,1450,Card,Vicki
+2024-09-03,"Vitamin C, diclofenac",2100,Cash,Nurse Lami
+2024-09-03,aspirin,1000,Card,Nathniel
+2024-09-04,"Omega 3, Azithrimycin",2150,Cash,Esther
+2024-09-04,Calcium Tablets,2050,Cash,Esther
+2024-09-04,"Diclofenac, Aspirin",2650,Cash,Nehemiah
+2024-09-04,aspirin,4000,Card,Vicki
+2024-09-05,Vitamin C,1050,Cash,Nurse Lami
+2024-09-05,Vitamin C,1000,Cash,Alice
+2024-09-05,Paracetamol,3900,Cash,Nathniel
+2024-09-05,Aspirin,300,Cash,Nehemiah
+2024-09-05,Vitamin C,450,Cash,Vicki
+2024-09-06,Paracetamol,4200,Cash,Alice
+2024-09-06,diclofenac,1150,Cash,Esther
+2024-09-07,Vitamin C,2550,Cash,Esther
+2024-09-07,"Doxycycline, aspirin",3400,Cash,Nehemiah
+2024-09-07,Aspirin,1950,Card,Nurse Lami
+2024-09-07,Ibuprofen,200,Cash,Alice
+2024-09-07,Vitamin C,1000,Cash,Vicki
+2024-09-08,Calcium Tablets,1750,Cash,Esther
+2024-09-08,"Azithrimycin, diclofenac",1900,Card,Nathniel
+2024-09-08,"Aspirin, Amoxicillin",2100,Card,Esther
+2024-09-08,Omega 3,3700,Card,Esther
+2024-09-09,Omeprexol,1450,Cash,Vicki
+2024-09-09,Doxycycline,1150,Cash,Alice
+2024-09-10,"Iron Supplements, Omeprexol",4150,Card,Nurse Lami
+2024-09-10,Iron Supplements,3650,Cash,Vicki
+2024-09-11,Omega 3,3300,Card,Alice
+2024-09-11,"Aspirin, Vitamin C",1400,Cash,Esther
+2024-09-12,Doxycycline,700,Card,Alice
+2024-09-12,Azithrimycin,1500,Cash,Nehemiah
+2024-09-13,"Calcium Tablets, Calcium Tablets",2700,Cash,Nurse Lami
+2024-09-13,Ibuprofen,3850,Cash,Esther
+2024-09-13,"Amoxicillin, Aspirin",1900,Cash,Nurse Lami
+2024-09-13,"Ibuprofen, Ciprofloxacin",1050,Cash,Nehemiah
+2024-09-14,Paracetamol,900,Card,Nathniel
+2024-09-14,Diclofenac,1050,Cash,Alice
+2024-09-15,Paracetamol,2600,Cash,Nurse Lami
+2024-09-15,Paracetamol,2600,Card,Vicki
+2024-09-15,"Azithrimycin, Greentol",4150,Card,Nurse Lami
+2024-09-16,"Omega 3, Ciprofloxacin",3800,Cash,Vicki
+2024-09-16,"Diclofenac, Ibuprofen",4100,Cash,Nehemiah
+2024-09-16,Amoxicillin,4100,Cash,Esther
+2024-09-17,", Ciprofloxacin",3450,Cash,Nehemiah
+2024-09-17,Vitamin C,3550,Card,Nurse Lami
+2024-09-17,"Vitamin C, ibuprofen",2850,Card,Nathniel
+2024-09-17,"Diclofenac, Omega 3",2600,Card,Alice
+2024-09-17,Azithrimycin,2900,Card,Esther
+2024-09-17,"Omega 3, Amoxicillin",1200,Card,Nathniel
+2024-09-17,"Iron Supplements, Omega 3",4400,Card,Esther
+2024-09-18,"Doxycycline, Iron Supplements",4400,Card,Nathniel
+2024-09-19,"Vitamin C, Iron Supplements",2950,Cash,Nehemiah
+2024-09-19,Amoxicillin,1750,Card,Esther
+2024-09-19,Azithrimycin,650,Card,Nehemiah
+2024-09-20,"Diclofenac, Omega 3",1400,Cash,Nurse Lami
+2024-09-20,Amoxicillin,950,Card,Nurse Lami
+2024-09-21,"aspirin, ibuprofen",4000,Card,Nehemiah
+2024-09-21,"Vitamin C, Omega 3",3200,Cash,Alice
+2024-09-21,Paracetamol,1200,Card,Nehemiah
+2024-09-22,Amoxicillin,3800,Card,Nurse Lami
+2024-09-22, Amoxicillin,3900,Card,Nathniel
+2024-09-22,"Paracetamol, ibuprofen",1650,Card,Nurse Lami
+2024-09-23,Diclofenac,1050,Card,Esther
+2024-09-23,Iron Supplements,3200,Card,Esther
+2024-09-23,"Aspirin, Artesunate injection",2000,Card,Nathniel
+2024-09-23, Escitalopram oxalate,3850,Card,Alice
+2024-09-24,"Paracetamol, Ciprofloxacin",1950,Card,Alice
+2024-09-24,"Amoxicillin, Amoxicillin",2300,Cash,Esther
+2024-09-24,Diclofenac,1500,Card,Vicki
+2024-09-24,Doxycycline,1050,Card,Nehemiah
+2024-09-24,"Amoxicillin, Aspirin",1150,Card,Esther
+2024-09-25,"Calcium Tablets, Azithrimycin",3350,Card,Vicki
+2024-09-25,Aspirin,2800,Cash,Vicki
+2024-09-25,"diclofenac, aspirin",2100,Cash,Alice
+2024-09-25,"Azithrimycin, Ciprofloxacin",2250,Card,Nehemiah
+2024-09-25,"Aspirin, Cephalexin",1800,Card,Nehemiah
+2024-09-25,"Paracetamol, Omega 3",3950,Card,Esther
+2024-09-26,"ibuprofen, diclofenac",1950,Cash,Nathniel
+2024-09-26,"Vitamin C, Azithrimycin",3800,Card,Vicki
+2024-09-26,Aspirin,700,Cash,Nathniel
+2024-09-26,"ibuprofen, ibuprofen",1000,Cash,Vicki
+2024-09-27,Iron Supplements,950,Card,Esther
+2024-09-27,"Azithrimycin, Diclofenac",1900,Card,Nathniel
+2024-09-27,"Doxycycline, Septrine",3600,Cash,Esther
+2024-09-27,"Vitamin C, Aspirin",1750,Cash,Nathniel
+2024-09-28,"Iron Supplements, Iron Supplements",1050,Cash,Nathniel
+2024-09-28,Azithrimycin,2250,Card,Alice
+2024-09-28,"Ciprofloxacin, ibuprofen",4200,Cash,Nehemiah
+2024-09-28,"Aspirin, Paracetamol, Vitamin C",4350,Cash,Alice
+2024-09-28,"Paracetamol, Iron Supplements",2200,Card,Nurse Lami
+2024-09-28,"Omega 3, Calcium Tablets",3700,Card,Nathniel
+2024-09-28,Diclofenac,800,Cash,Alice
+2024-09-29,Calcium Tablets,4100,Card,Alice
+2024-09-29,"Doxycycline, Omega 3",2100,Cash,Alice
+2024-09-29,Vitamin C,1400,Card,Nurse Lami
+2024-09-29,"Amoxicillin, Doxycycline",3300,Card,Vicki
+2024-09-29,"Vitamin C, Amoxicillin",1250,Card,Nurse Lami
+2024-09-30,Doxycycline,1550,Card,Esther
+2024-09-30,"ibuprofen, Ciprofloxacin",2850,Card,Nathniel
+2024-09-30,Calcium Tablets,2000,Card,Nehemiah
+2024-09-30,"Ciprofloxacin, Ciprofloxacin",1650,Cash,Nurse Lami
+2024-09-30,"Diclofenac, Omega 3",2350,Card,Esther
+2024-09-30,Ibuprofen,550,Card,Vicki
+2024-09-30,"Ciprofloxacin, Vitamin C",1950,Cash,Nurse Lami
+2024-10-01,aspirin,2350,Cash,Nehemiah
+2024-10-01,"Azithrimycin, Vitamin C",1650,Card,Alice
+2024-10-01,"Amoxicillin, Aspirin",950,Card,Vicki
+2024-10-02,"Paracetamol, Paracetamol",4450,Card,Vicki
+2024-10-02,"Azithrimycin, Doxycycline",4200,Cash,Nurse Lami
+2024-10-02,Cephalexin,3850,Cash,Vicki
+2024-10-02,"Iron Supplements, Azithrimycin",2900,Cash,Nehemiah
+2024-10-02,"Diclofenac, Amoxicillin",1150,Card,Vicki
+2024-10-03,Azithrimycin,1900,Cash,Nathniel
+2024-10-03,Doxycycline,2700,Card,Nehemiah
+2024-10-03,"diclofenac, ibuprofen",2950,Card,Alice
+2024-10-04,Ibuprofen,550,Card,Vicki
+2024-10-04,"Azithrimycin, Aspirin",1050,Card,Nehemiah
+2024-10-04,"Omega 3, Paracetamol",3450,Card,Nehemiah
+2024-10-05,Omega 3,2950,Cash,Nathniel
+2024-10-05,Omega 3,2850,Cash,Nehemiah
+2024-10-06,"Omega 3, ibuprofen",1400,Cash,Esther
+2024-10-06,"Iron Supplements, Doxycycline",3700,Cash,Alice
+2024-10-06,"Aspirin, Vitamin C",3150,Cash,Esther
+2024-10-07,"Calcium Tablets, Iron Supplements",2950,Card,Nurse Lami
+2024-10-07,Iron Supplements,3250,Cash,Nurse Lami
+2024-10-08,Calcium Tablets,2450,Card,Nehemiah
+2024-10-08,"Doxycycline, Calcium Tablets",950,Card,Nehemiah
+2024-10-08,Calcium Tablets,3800,Cash,Nehemiah
+2024-10-08,Paracetamol,200,Cash,Alice
+2024-10-08,Sodium Chloride,1400,Card,Nehemiah
+2024-10-08,ibuprofen,4450,Card,Nehemiah
+2024-10-08,Aspirin,550,Card,Nurse Lami
+2024-10-09,Omega 3,2750,Cash,Esther
+2024-10-10,"aspirin, Amoxicillin",1300,Cash,Nathniel
+2024-10-10,"Diclofenac, Vitamin C",1500,Cash,Nurse Lami
+2024-10-10,"Vitamin C, Azithrimycin",3800,Cash,Nehemiah
+2024-10-11,"Ciprofloxacin, Iron Supplements",4400,Card,Esther
+2024-10-11,Iron Supplements,1950,Card,Nehemiah
+2024-10-12," Ibuprofen, Aspirin",2500,Cash,Nathniel
+2024-10-12,"Aspirin, Ampiclox",1650,Cash,Alice
+2024-10-13,"Doxycycline, ibuprofen",950,Cash,Vicki
+2024-10-13,"Ciprofloxacin, Iron Supplements",3900,Cash,Nurse Lami
+2024-10-14,Iron Supplements,3050,Cash,Nurse Lami
+2024-10-15,"ibuprofen, Paracetamol",1650,Cash,Nurse Lami
+2024-10-15,"Iron Supplements, ibuprofen",2550,Card,Esther
+2024-10-16,"Amoxicillin, ibuprofen",1350,Card,Esther
+2024-10-16,"Iron Supplements, Ciprofloxacin",950,Card,Vicki
+2024-10-16,Paracetamol,200,Card,Esther
+2024-10-16,Vitamin C,850,Cash,Nehemiah
+2024-10-16,"Omega 3, Azithrimycin",2650,Card,Vicki
+2024-10-17,Omega 3,2500,Card,Vicki
+2024-10-17,Calcium Tablets,4500,Cash,Nurse Lami
+2024-10-17,Aspirin,600,Cash,Alice
+2024-10-17,"Iron Supplements, Omega 3",4050,Cash,Esther
+2024-10-17,"Omega 3, Paracetamol",1700,Cash,Vicki
+2024-10-17,"Omega 3, Aspirin",3850,Card,Vicki
+2024-10-17,"Amoxicillin, Vitamin C",2900,Cash,Nathniel
+2024-10-17,Iron Supplements,3950,Cash,Nurse Lami
+2024-10-17,ibuprofen,1250,Cash,Vicki
+2024-10-18,"Ciprofloxacin, Azithrimycin",4000,Cash,Alice
+2024-10-18,Ciprofloxacin,1650,Cash,Nurse Lami
+2024-10-18,Ciprofloxacin,1800,Card,Esther
+2024-10-19,"Doxycycline, Iron Supplements",3150,Cash,Nathniel
+2024-10-19,Azithrimycin,700,Card,Nurse Lami
+2024-10-19,Omega 3,3100,Cash,Esther
+2024-10-19,Paracetamol,450,Card,Nathniel
+2024-10-20,"Omega 3, Iron Supplements",3700,Cash,Vicki
+2024-10-20,Vitamin C,450,Cash,Alice
+2024-10-21,"Amoxicillin, Vitamin C",3350,Card,Nurse Lami
+2024-10-21,Calcium Tablets,3950,Cash,Nurse Lami
+2024-10-21,"Ciprofloxacin, Omega 3",4350,Cash,Vicki
+2024-10-21,"Omega 3, Aspirin",2550,Cash,Nathniel
+2024-10-21,Ciprofloxacin,1850,Card,Nehemiah
+2024-10-21,"Omega 3, Clonazepam",2150,Card,Alice
+2024-10-23,Doxycycline,1900,Cash,Nurse Lami
+2024-10-23,Ciprofloxacin,400,Cash,Nehemiah
+2024-10-23,Iron Supplements,2000,Card,Alice
+2024-10-23,Vitamin C,400,Card,Nehemiah
+2024-10-23,Azithrimycin,3900,Card,Esther
+2024-10-24,ibuprofen,2550,Card,Alice
+2024-10-24,"Ciprofloxacin, Doxycycline",3100,Card,Nurse Lami
+2024-10-24,"Amoxicillin, Ciprofloxacin",3250,Card,Vicki
+2024-10-24,"Azithrimycin, Omega 3",3700,Cash,Nurse Lami
+2024-10-24,Ciprofloxacin,1000,Card,Nathniel
+2024-10-24,Amoxicillin,850,Card,Nathniel
+2024-10-24,Iron Supplements,1150,Cash,Nathniel
+2024-10-25,"diclofenac, Vitamin C",2400,Card,Nehemiah
+2024-10-25,"Vitamin C, Paracetamol",4300,Cash,Alice
+2024-10-25,Aspirin,1900,Card,Nehemiah
+2024-10-25,"Aspirin, Cephalexin",3000,Cash,Alice
+2024-10-25,Omega 3,1100,Cash,Esther
+2024-10-26,Vitamin C,3700,Card,Vicki
+2024-10-26,"Omega 3, Paracetamol",3200,Card,Esther
+2024-10-26,"Omega 3, Amoxicillin",2450,Cash,Alice
+2024-10-26,Omega 3,1500,Cash,Nehemiah
+2024-10-26,"Azithrimycin, Vitamin C",1750,Cash,Nathniel
+2024-10-28,Iron Supplements,3800,Cash,Alice
+2024-10-28,"Paracetamol, Vitamin C",2100,Card,Alice
+2024-10-28,Paracetamol,350,Cash,Nathniel
+2024-10-29,Omega 3,500,Cash,Nathniel
+2024-10-29,Aspirin,300,Card,Nathniel
+2024-10-29,"Azithrimycin, ibuprofen",950,Cash,Esther
+2024-10-30,Funbact A,3050,Card,Alice
+2024-10-30,ibuprofen,3600,Cash,Nehemiah
+2024-10-31,"Ciprofloxacin, Azithrimycin",950,Cash,Esther
+2024-10-31,"Paracetamol, diclofenac",3150,Cash,Nehemiah
+2024-10-31,Ciprofloxacin,4400,Card,Alice
+2024-10-31,Doxycycline,2050,Cash,Esther
+2024-10-31,"Ciprofloxacin, Iron Supplements",1550,Card,Esther
+2024-10-31,"Cold syrup, Ampiclox",4450,Cash,Nehemiah
+2024-10-31,"Iron Supplements, Amoxicillin",3150,Cash,Alice
+2024-10-31,Amoxicillin,450,Card,Nathniel
+2024-11-01,"Amoxicillin, Calcium Tablets",3150,Cash,Vicki
+2024-11-02,Diclofenac,850,Cash,Nathniel
+2024-11-02,"Omega 3, Ibuprofen",2100,Card,Vicki
+2024-11-03,"Calcium Tablets, Amoxicillin",3850,Card,Vicki
+2024-11-03,diclofenac,1450,Cash,Esther
+2024-11-03,Omega 3,1850,Cash,Nehemiah
+2024-11-03,"Ciprofloxacin, Azithrimycin",1900,Cash,Alice
+2024-11-04,"diclofenac, Iron Supplements",3150,Card,Nurse Lami
+2024-11-04,"Amoxicillin, Iron Supplements",2250,Card,Nurse Lami
+2024-11-04,Omega 3,4150,Cash,Nurse Lami
+2024-11-04,Paracetamol,1950,Cash,Nehemiah
+2024-11-05,Doxycycline,950,Card,Esther
+2024-11-05,Azithrimycin,4300,Cash,Vicki
+2024-11-05,Paracetamol,1050,Cash,Esther
+2024-11-05,Azithrimycin,1750,Cash,Nehemiah
+2024-11-05,"Vitamin C, Pro Cold",850,Cash,Nathniel
+2024-11-05,Ciprofloxacin,1100,Cash,Esther
+2024-11-05,"Ciprofloxacin, diclofenac",1150,Cash,Nathniel
+2024-11-06,"aspirin, Amoxicillin",3650,Cash,Esther
+2024-11-06,"Iron Supplements, Azithrimycin",2300,Card,Nurse Lami
+2024-11-06,"aspirin, ibuprofen",4150,Card,Esther
+2024-11-06,"Ciprofloxacin, Doxycycline",1800,Cash,Esther
+2024-11-07,Omega 3,3700,Cash,Esther
+2024-11-07,Azithrimycin,1900,Cash,Nehemiah
+2024-11-07,Omega 3,2250,Cash,Nurse Lami
+2024-11-07,"Vitamin C,  Pro Cold, Cough Syrup",1950,Cash,Nathniel
+2024-11-07,"Paracetamol, Calcium Tablets",1100,Cash,Nehemiah
+2024-11-08,Azithrimycin,2800,Card,Alice
+2024-11-09,"Vitamin C, ibuprofen",1400,Cash,Nehemiah
+2024-11-09,Paracetamol,2550,Cash,Vicki
+2024-11-09,"diclofenac, Vitamin C",1600,Cash,Vicki
+2024-11-09,Azithrimycin,1350,Card,Alice
+2024-11-10,Diclofenac,700,Cash,Nehemiah
+2024-11-10,"Calcium Tablets, Ciprofloxacin",3050,Cash,Nathniel
+2024-11-10,Doxycycline,1450,Cash,Nehemiah
+2024-11-10,Paracetamol,300,Card,Esther
+2024-11-10,Doxycycline,450,Cash,Alice
+2024-11-11,"Paracetamol, Ciprofloxacin",4400,Card,Esther
+2024-11-11,"Doxycycline, Iron Supplements",2300,Card,Nurse Lami
+2024-11-11,Septrine,850,Card,Nurse Lami
+2024-11-11,Iron Supplements,1350,Cash,Nurse Lami
+2024-11-12,"Doxycycline, ibuprofen",2750,Cash,Alice
+2024-11-12,Azithrimycin,2500,Cash,Alice
+2024-11-12,Doxycycline,1300,Card,Nathniel
+2024-11-12,Omega 3,1550,Card,Esther
+2024-11-12,"Doxycycline, Aspirin",1550,Card,Vicki
+2024-11-12,"Omega 3, Ciprofloxacin",950,Card,Esther
+2024-11-13,aspirin,2000,Cash,Esther
+2024-11-13,"Doxycycline, ibuprofen",3600,Card,Vicki
+2024-11-13,aspirin,3400,Card,Nehemiah
+2024-11-13,"Cold syrup, Vitamin C, Aspirin",1600,Card,Nehemiah
+2024-11-13,"Cephalexin, Ibuprofin",2300,Cash,Esther
+2024-11-13,Omega 3,1300,Cash,Esther
+2024-11-14,Azithrimycin,4350,Cash,Nehemiah
+2024-11-14,"Omega 3, Calcium Tablets",3000,Cash,Vicki
+2024-11-15,ibuprofen,1800,Cash,Nurse Lami
+2024-11-15,Ciprofloxacin,950,Card,Esther
+2024-11-16,"Omega 3, Diclofenac",1700,Card,Nehemiah
+2024-11-16,"Doxycycline, vitamin C",3650,Cash,Nathniel
+2024-11-16,"Ciprofloxacin, diclofenac",950,Cash,Nurse Lami
+2024-11-16,Calcium Tablets,3550,Card,Esther
+2024-11-17,diclofenac,1650,Cash,Nehemiah
+2024-11-17,"Diclofenac, Aspirin",2850,Card,Vicki
+2024-11-17,"Ciprofloxacin, diclofenac",3650,Cash,Nehemiah
+2024-11-17,Paracetamol,1900,Cash,Nehemiah
+2024-11-17,"Iron Supplements, Calcium Tablets",4200,Cash,Esther
+2024-11-18,"Iron Supplements, Vitamin C",1850,Cash,Nurse Lami
+2024-11-19,Amoxicillin,3400,Card,Vicki
+2024-11-19,"Iron Supplements, Ibuprofen",3300,Card,Vicki
+2024-11-19,Diclofenac,1550,Cash,Esther
+2024-11-19,"Azithrimycin, Omega 3",1500,Cash,Nurse Lami
+2024-11-20,"aspirin, Calcium Tablets",3950,Card,Esther
+2024-11-20,"Omega 3, Doxycycline",2350,Card,Esther
+2024-11-21,"diclofenac, Calcium Tablets",1950,Cash,Nurse Lami
+2024-11-21,"Omega 3, Vitamin C",3950,Card,Alice
+2024-11-21,Omega 3,3150,Card,Nathniel
+2024-11-22,"Vitamin C, Aspirin",500,Cash,Esther
+2024-11-22,"Vitamin C, Calcium Tablets",3600,Cash,Nehemiah
+2024-11-22,"Aspirin, Paracetamol",1250,Card,Nurse Lami
+2024-11-22,Aspirin,250,Cash,Nurse Lami
+2024-11-22,"Calcium Tablets, Azithrimycin",3450,Card,Nehemiah
+2024-11-23,"Omega 3, ibuprofen",1800,Card,Nurse Lami
+2024-11-23,"Doxycycline, ibuprofen",1300,Cash,Nehemiah
+2024-11-23,Omeprexol,3100,Card,Nurse Lami
+2024-11-23,"Omega 3, Vitamin C",1950,Cash,Vicki
+2024-11-24,"Calcium Tablets, Paracetamol",4150,Cash,Vicki
+2024-11-24,"Amoxicillin, Doxycycline",2250,Card,Nehemiah
+2024-11-24,"Vitamin C, ibuprofen",1550,Card,Vicki
+2024-11-24,"Cephalexin, Greentol",1350,Cash,Nurse Lami
+2024-11-25,"Vitamin C, Amoxicillin",3600,Card,Nurse Lami
+2024-11-26,Omega 3,3650,Cash,Vicki
+2024-11-26,Paracetamol,1400,Card,Nurse Lami
+2024-11-26,Doxycycline,2650,Cash,Vicki
+2024-11-26,"Ibuprofen, Diclofenac",1950,Card,Vicki
+2024-11-26,Iron Supplements,3250,Card,Nehemiah
+2024-11-26,Amoxicillin,3750,Card,Esther
+2024-11-26,"Vitamin C,  Pro Cold",650,Card,Nathniel
+2024-11-26,Ibuprofen,900,Cash,Nehemiah
+2024-11-26,Calcium Tablets,1050,Cash,Vicki
+2024-11-27,"Paracetamol, Omega 3",4050,Card,Vicki
+2024-11-27,Ciprofloxacin,2700,Cash,Nathniel
+2024-11-27,Calcium Tablets,2050,Cash,Nathniel
+2024-11-27,Doxycycline,800,Cash,Esther
+2024-11-27,"Amoxicillin, diclofenac",3550,Card,Nathniel
+2024-11-28,Ciprofloxacin,1200,Cash,Vicki
+2024-11-28,Azithrimycin,1600,Card,Nurse Lami
+2024-11-28,"Iron Supplements, Iron Supplements",3550,Card,Nehemiah
+2024-11-28,"Amoxicillin, Doxycycline",4250,Cash,Vicki
+2024-11-29, Iron Supplements,4200,Cash,Nathniel
+2024-11-29,"Paracetamol, Calcium Tablets",1800,Card,Nurse Lami
+2024-11-29,"diclofenac, Omega 3",1800,Cash,Esther
+2024-11-29,Calcium Tablets,2250,Card,Nehemiah
+2024-11-29,"Calcium Tablets, Paracetamol",2850,Card,Nurse Lami
+2024-11-30,Azithrimycin,1150,Cash,Esther
+2024-11-30,Omega 3,2050,Cash,Esther
+2024-11-30,"Amoxicillin, ibuprofen",1700,Card,Esther
+2024-12-01,Calcium Tablets,4500,Cash,Nathniel
+2024-12-01,"Vitamin C, Azithrimycin",2350,Cash,Alice
+2024-12-01,"Azithrimycin, Calcium Tablets",3450,Cash,Alice
+2024-12-01,"Vitamin C, Azithrimycin",1350,Cash,Nathniel
+2024-12-01,"Doxycycline, Omega 3",3100,Cash,Nurse Lami
+2024-12-02,"Vitamin C, Cold syrup, Penicilin",3550,Card,Nurse Lami
+2024-12-02,"Omega 3, Ciprofloxacin",2850,Cash,Nathniel
+2024-12-03,"aspirin, Doxycycline",2950,Cash,Nehemiah
+2024-12-03,"Doxycycline, Omeprexol",2800,Cash,Vicki
+2024-12-03,"Aspirin, Amoxicillin",1150,Card,Esther
+2024-12-03,"Iron Supplements, Vitamin C",2450,Cash,Alice
+2024-12-04,Paracetamol,400,Card,Esther
+2024-12-04,Omeprexol,1650,Card,Alice
+2024-12-04,Doxycycline,550,Card,Alice
+2024-12-05,ibuprofen,1200,Card,Nurse Lami
+2024-12-05,Paracetamol,1400,Card,Nehemiah
+2024-12-05,Diclofenac,450,Cash,Esther
+2024-12-06,Calcium Tablets,3250,Cash,Nehemiah
+2024-12-07,"Azithrimycin, Ciprofloxacin",3950,Cash,Alice
+2024-12-07,Calcium Tablets,2900,Cash,Nathniel
+2024-12-07,Doxycycline,1700,Cash,Vicki
+2024-12-07,"aspirin, Calcium Tablets",2550,Cash,Nurse Lami
+2024-12-08,"Omega 3, Azithrimycin",3300,Cash,Alice
+2024-12-08,Vitamin C,450,Card,Nathniel
+2024-12-09,Azithrimycin,3750,Card,Nehemiah
+2024-12-09,"Doxycycline, diclofenac",2250,Card,Esther
+2024-12-09,Amoxicillin,350,Cash,Vicki
+2024-12-10,"diclofenac, Calcium Tablets",1750,Cash,Esther
+2024-12-10,"Iron Supplements, diclofenac",2750,Card,Alice
+2024-12-10,"Doxycycline, Aspirin, Vitamin C",3650,Card,Nehemiah
+2024-12-10,Amoxicillin,3000,Card,Nurse Lami
+2024-12-10,Calcium Tablets,3550,Cash,Vicki
+2024-12-11,"Doxycycline, Doxycycline",3450,Card,Nathniel
+2024-12-11,Ibuprofen,1450,Cash,Vicki
+2024-12-11,Doxycycline,2250,Cash,Vicki
+2024-12-11,"Azithrimycin, Diclofenac",1550,Cash,Nathniel
+2024-12-11,Doxycycline,1150,Cash,Alice
+2024-12-11,"Paracetamol, Amoxicillin",4100,Cash,Nehemiah
+2024-12-12,Amoxicillin,2900,Card,Vicki
+2024-12-12,"Doxycycline, Omega 3",2250,Cash,Alice
+2024-12-12,Azithrimycin,1250,Card,Nurse Lami
+2024-12-12,Doxycycline,2550,Card,Nurse Lami
+2024-12-12,"Omega 3, Ciprofloxacin",4450,Card,Nurse Lami
+2024-12-13,Calcium Tablets,1900,Card,Vicki
+2024-12-13,Vitamin C,800,Card,Nurse Lami
+2024-12-13,Aspirin,1750,Cash,Nurse Lami
+2024-12-14,Ciprofloxacin,4500,Cash,Esther
+2024-12-14,Omega 3,3800,Card,Nurse Lami
+2024-12-14,Vitamin C,500,Cash,Nehemiah
+2024-12-14,Ibuprofen,450,Cash,Nurse Lami
+2024-12-15,Amoxicillin,3150,Card,Esther
+2024-12-15,"Aspirin, Vitamin C",1200,Card,Nathniel
+2024-12-16,"Paracetamol, Azithrimycin",4100,Card,Vicki
+2024-12-17,Calcium Tablets,1800,Card,Nurse Lami
+2024-12-17,"Ciprofloxacin, Paracetamol",900,Card,Vicki
+2024-12-18,Doxycycline,3550,Cash,Esther
+2024-12-18,"Iron Supplements, Paracetamol",3550,Cash,Esther
+2024-12-19,"Iron Supplements, Calcium Tablets",2850,Card,Nathniel
+2024-12-19,Calcium Tablets,2050,Cash,Alice
+2024-12-19, Pro Cold,800,Card,Nehemiah
+2024-12-19,"Vitamin C, Pro Cold",2300,Card,Nehemiah
+2024-12-20,Amoxicillin,4300,Card,Esther
+2024-12-20,"Diclofenac, Aspirin",2000,Card,Nehemiah
+2024-12-20,Ciprofloxacin,1900,Cash,Nehemiah
+2024-12-21,"ibuprofen, Paracetamol",3650,Card,Nathniel
+2024-12-21,Amoxicillin,1700,Cash,Nathniel
+2024-12-21,Azithrimycin,4100,Card,Nehemiah
+2024-12-21,Calcium Tablets,3750,Card,Esther
+2024-12-21,"Azithrimycin, Amoxicillin",1600,Cash,Nehemiah
+2024-12-21,"Aspirin, Cephalexin, Cough Syrup",3100,Card,Alice
+2024-12-22,"Omega 3, Paracetamol",1350,Card,Alice
+2024-12-22," Pro Cold, Vitamin C",1800,Cash,Vicki
+2024-12-23,"ibuprofen, Cold syrup",2650,Cash,Nathniel
+2024-12-24,"Paracetamol, Azithrimycin",1300,Cash,Esther
+2024-12-24,"Aspirin, Cought Syrup",1150,Card,Nathniel
+2024-12-24,"Amoxicillin, Azithrimycin",3350,Cash,Nehemiah
+2024-12-24,"Omega 3, Amoxicillin",1100,Cash,Nurse Lami
+2024-12-24,"Aspirin, Cought Syrup",650,Cash,Nehemiah
+2024-12-25,"Ciprofloxacin, Vitamin C, Cold syrup",4200,Card,Alice
+2024-12-25,Doxycycline,1100,Card,Nathniel
+2024-12-26,"Cold syrup, Vitamin C",1300,Cash,Esther
+2024-12-26,Azithrimycin,1750,Card,Nathniel
+2024-12-26,"Aspirin, Vitamin C",1850,Card,Nehemiah
+2024-12-26,Omega 3,3000,Card,Vicki
+2024-12-27,"Omega 3, aspirin",2350,Card,Vicki
+2024-12-27,"Calcium Tablets, Calcium Tablets",4250,Cash,Alice
+2024-12-27,"Paracetamol, Azithrimycin",3450,Card,Alice
+2024-12-28,Vitamin C,1000,Card,Nehemiah
+2024-12-28,Ciprofloxacin,3200,Cash,Nurse Lami
+2024-12-28,"Iron Supplements, Omega 3",1250,Card,Alice
+2024-12-28,"Amoxicillin, Ibuprofen",1950,Cash,Nathniel
+2024-12-28,"ibuprofen, Ciprofloxacin",2900,Card,Nathniel
+2024-12-29,Azithrimycin,1400,Cash,Nurse Lami
+2024-12-29,Ibuprofen,300,Card,Alice
+2024-12-29,"Omega 3, Iron Supplements",4300,Cash,Nurse Lami
+2024-12-29,"Iron Supplements, Diclofenac",3250,Cash,Nehemiah
+2024-12-30,Amoxicillin,900,Card,Nurse Lami
+2024-12-30, Ciprofloxacin,700,Card,Vicki
+2024-12-31,"ibuprofen, Ciprofloxacin",1100,Card,Alice
+2024-12-31,"Paracetamol, Azithrimycin",1800,Cash,Vicki
+2024-12-31,Diclofenac,950,Cash,Nathniel
+2024-12-31,"Iron Supplements, Calcium Tablets",1150,Cash,Nehemiah
