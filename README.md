@@ -9,4 +9,3 @@
 7. Do sales increase during the holidays and festive periods?
 8. which drug sells the fastest?
 9. Frequent sale of each drug?
-10. Is there a pattern in the type of drugs sold together?
